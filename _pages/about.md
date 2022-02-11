@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "John W. Barry"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! I’m a PhD candidate in Finance at the Fuqua School of Business, Duke University. I have a B.A. in Philosophy, Politics, Economics and Sociology (PPES) from Trinity College, Dublin.
+Hello! I’m a PhD candidate in Finance at the Fuqua School of Business, Duke University. My research interests span topics in corporate finance. I have a B.A. in Philosophy, Politics, Economics and Sociology (PPES) from Trinity College, Dublin. 
