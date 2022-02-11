@@ -7,7 +7,7 @@
 html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
-  background-color: 	#A9A9A9;
+  background-color: 	$background-color;
   font-size: 16px;
 
   @include breakpoint($medium) {
@@ -26,12 +26,12 @@ body { margin: 0; }
 
 ::-moz-selection {
   color: #fff;
-  background: 	#A9A9A9;
+  background: 	#000;
 }
 
 ::selection {
   color: #fff;
-  background: 	#A9A9A9;
+  background: 	#000;
 }
 
 /* Display HTML5 elements in IE6-9 and FF3 */
