@@ -81,8 +81,8 @@ staticman:
 # Site Author
 author:
   name             : "John W. Barry"
-  avatar           : "profile.png"
-  bio              : "PhD Candidate, Fuqua School of Business, Duke University"
+  avatar           : "photo.jpg"
+  bio              : "PhD Candidate"
   location         : "Durham, NC, USA"
   email            : "john.w.barry@duke.edu"
   github           : "jwb4335"
