@@ -80,7 +80,7 @@ staticman:
 
 # Site Author
 author:
-  name             : "John W. Barry"
+  name             : ""
   avatar           : "photo.jpg"
   bio              : "PhD Candidate"
   location         : "Durham, NC, USA"
