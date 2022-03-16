@@ -176,17 +176,35 @@
   position: relative;
   min-width: 250px;
   background: $background-color;
-
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   a {
-    display: block;
-    margin: 0 1rem;
+    display: inline-block;
+	width: 100px;
+	margin: 0px 5px 0px 5px;
     padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
+    text-align:center;
 
     &:hover {
       color: $masthead-link-color-hover;
+	  font-weight: bold;
+
     }
+	&::before{
+    display: inline-block;
+	margin: 0px 5px 0px 5px;
+    padding: 0.5rem 0;
+    color: $masthead-link-color;
+    // text-decoration: none;
+	// height: 0;
+    // overflow: hidden;
+    visibility: hidden;
+    font-weight: bold;
+
+	}
   }
 
   button {
@@ -209,7 +227,7 @@
       vertical-align: middle;
 
       &:first-child {
-        font-weight: bold;
+        
 
         a {
           margin-left: 0;
@@ -223,30 +241,30 @@
       }
     }
 
-    a {
-      position: relative;
+    // a {
+      // position: relative;
 
-      &:before {
-        content: "";
-        position: absolute;
-        left: 0;
-        bottom: 0;
-        height: 4px;
-        background: mix(#fff, $primary-color, 50%);
-        width: 100%;
-        -webkit-transition: $global-transition;
-        transition: $global-transition;
-        -webkit-transform: scaleX(0);
-            -ms-transform: scaleX(0);
-                transform: scaleX(0); /* hide*/
-      }
+      // &:before {
+        // content: "";
+        // position: absolute;
+        // left: 0;
+        // bottom: 0;
+        // height: 4px;
+        // background: $link_underline_cover_color;
+        // width: 100%;
+        // -webkit-transition: $global-transition;
+        // transition: $global-transition;
+        // -webkit-transform: scaleX(0);
+            // -ms-transform: scaleX(0);
+                // transform: scaleX(0); /* hide*/
+      // }
 
-      &:hover:before {
-        -webkit-transform: scaleX(1);
-            -ms-transform: scaleX(1);
-                transform: scaleX(1); /* reveal*/
-      }
-    }
+      // &:hover:before {
+        // -webkit-transform: scaleX(1);
+            // -ms-transform: scaleX(1);
+                // transform: scaleX(1); /* reveal*/
+      // }
+    // }
   }
 
   .hidden-links {

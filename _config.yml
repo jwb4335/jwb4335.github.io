@@ -8,10 +8,11 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "John W. Barry"
+masthead_title           : "Home"
 title_separator          : "-"
 name                     : &name "John W. Barry"
 description              : &description "PhD Candidate in Finance"
-url                      : https://johnwbarry.info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://localhost:4000/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jwb4335/jwb4335.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,10 +81,10 @@ staticman:
 
 # Site Author
 author:
-  name             : ""
+  name             : "John W. Barry"
   avatar           : "photo.jpg"
   bio              : "PhD Candidate"
-  location         : "Durham, NC, USA"
+  location         : "Duke University"
   email            : "john.w.barry@duke.edu"
   github           : "jwb4335"
 #   google_plus      :
@@ -168,12 +169,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -300,3 +295,13 @@ compress_html:
     envs: development
 
 theme: jekyll-theme-minimal
+
+
+# Highlight current page: https://stackoverflow.com/questions/8340170/jekyll-automatically-highlight-current-tab-in-menu-bar
+navigation:
+  - title: Research
+    url: /research/
+  - title: CV
+    url: /cv/
+  - title: Teaching
+    url: /teaching/
