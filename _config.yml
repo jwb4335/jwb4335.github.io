@@ -12,7 +12,7 @@ masthead_title           : "Home"
 title_separator          : "-"
 name                     : &name "John W. Barry"
 description              : &description "PhD Candidate in Finance"
-url                      : http://localhost:4000/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://johnwbarry.info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jwb4335/jwb4335.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -33,7 +33,7 @@ comments:
     colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 :  "webpage" #"gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
