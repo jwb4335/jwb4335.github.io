@@ -83,7 +83,7 @@ staticman:
 author:
   name             : "John W. Barry"
   avatar           : "photo.jpg"
-  bio              : "PhD Candidate"
+#  bio              : "PhD Candidate"
   location         : "Duke University"
   email            : "john.w.barry@duke.edu"
   github           : "jwb4335"
