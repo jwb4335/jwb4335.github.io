@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m a PhD candidate in Finance at the Fuqua School of Business, Duke University. 
+Hello! I’m a PhD candidate in Finance at the Fuqua School of Business, Duke University. I have a BA in Philosophy, Politics, Economics and Sociology (PPES) from Trinity College, Dublin. 
 
-Previously, I worked at Princeton Univesity and Harvard Business School as a Research Assistant. I have a BA in Philosophy, Politics, Economics and Sociology (PPES) from Trinity College, Dublin. 
-
+Previously, I worked at Princeton University and Harvard Business School as a Research Assistant.
 
 [john.w.barry@duke.edu](mailto: john.w.barry@duke.edu)
 

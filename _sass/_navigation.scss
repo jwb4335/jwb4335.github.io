@@ -187,10 +187,13 @@
     color: $masthead-link-color;
     text-decoration: none;
     text-align:center;
+	font-weight: bold;
+	font-family: $monospace;
 
     &:hover {
       color: $masthead-link-color-hover;
 	  font-weight: bold;
+	  font-family: $monospace;
 
     }
 	&::before{

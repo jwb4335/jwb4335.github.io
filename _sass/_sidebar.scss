@@ -34,18 +34,18 @@
     font-family: $mainfont;
   }
 
-  h3, h4 {
+  h1, h2, h3, h4, h5, h6 {
     font-size: $type-size-5;
   }
 
   p, li {
     font-family: $mainfont;
-    font-size: $type-size-6;
-    line-height: 1.5;
+    font-size: $type-size-5;
+    line-height: 1;
   }
 
   img {
-    width: 100%;
+    width: 125%;
   }
 }
 
@@ -83,7 +83,7 @@
   }
 
   img {
-    max-width: 200px;
+    max-width: 250px;
     border-radius: 0%;
 
     @include breakpoint($large) {
@@ -117,8 +117,11 @@
   }
 }
 .sidebar .author__name {
-  font-family: $sans-serif;
-  font-size: $type-size-3;
+  max-width: 250px;
+  width: 130%;
+  font-family: $monospace;
+  font-size: $type-size-1;
+  color: $author-name-color;
 }
 
 .author__bio {
