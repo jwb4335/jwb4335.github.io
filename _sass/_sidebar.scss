@@ -34,14 +34,14 @@
     font-family: $mainfont;
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  h3, h4 {
     font-size: $type-size-5;
   }
 
   p, li {
     font-family: $mainfont;
-    font-size: $type-size-5;
-    line-height: 1;
+    font-size: $type-size-6;
+    line-height: 1.5;
   }
 
   img {
@@ -64,6 +64,7 @@
     width: $right-sidebar-width;
   }
 }
+
 
 /*
    Author profile and links
