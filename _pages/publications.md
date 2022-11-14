@@ -14,10 +14,10 @@ _with Murillo Campello, John R. Graham and Yueran Ma_<br/>
 <img src="{{ site.baseurl }}/files/figures/corp_flex.png" width  = "60%" height = "25%"/>
 </div>
 ## Working Papers
-- **CEO Compensation and Shareholder Voice: Evidence from a Learning Model** (July 2022)<br/>
-_with James D. Pinnington_<br/>
-_draft coming soon!_<br/>
-**Abstract.** <font size = 3> We estimate a model of executive compensation with non-binding shareholder approval votes ("Say-on-Pay"). Compensation decisions are delegated to a board, who is imperfectly informed of the executive's skill and biased towards offering a higher wage. In our model, Say-on-Pay serves two purposes. Failed votes punish the board for overpaying low-type executives, but also reveal shareholders' private information about the executive's skill. Our model rationalizes several stylized facts around non-binding compensation votes.</font>
-<div style="text-align: center">
-<img src="{{ site.baseurl }}/files/figures/wages_failure_s_strategy.png" width  = "50%" height = "20.83%"/>
-</div>
+#- **CEO Compensation and Shareholder Voice: Evidence from a Learning Model** (July 2022)<br/>
+#_with James D. Pinnington_<br/>
+#_draft coming soon!_<br/>
+#**Abstract.** <font size = 3> We estimate a model of executive compensation with non-binding shareholder approval votes ("Say-on-Pay"). Compensation decisions are delegated to a board, who is imperfectly informed of the executive's skill and biased towards offering a higher wage. In our model, Say-on-Pay serves two purposes. Failed votes punish the board for overpaying low-type executives, but also reveal shareholders' private information about the executive's skill. Our model rationalizes several stylized facts around non-binding compensation votes.</font>
+#<div style="text-align: center">
+#<img src="{{ site.baseurl }}/files/figures/wages_failure_s_strategy.png" width  = "50%" height = "20.83%"/>
+#</div>
