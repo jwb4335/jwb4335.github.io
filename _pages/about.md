@@ -14,4 +14,4 @@ Previously, I worked at Princeton University and Harvard Business School as a Re
 
 [john.w.barry@duke.edu](mailto: john.w.barry@duke.edu)
 
-[CV]({{ site.baseurl }}/files/vitae/CV.pdf){:target="_blank"}{:rel="noopener noreferrer"}
+[CV]({{ site.baseurl }}/files/vitae/CV John Barry.pdf){:target="_blank"}{:rel="noopener noreferrer"}
