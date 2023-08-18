@@ -12,7 +12,7 @@ Hello! I’m a PhD candidate in Finance at the Fuqua School of Business, Duke Un
 
 I will be on the 2023/2024 academic job market. 
 
-I have a BA in Philosophy, Politics, Economics and Sociology (PPES) from Trinity College, Dublin, and a Master's from the Barcelona School of Economics.
+I have a BA in Philosophy, Politics, Economics and Sociology (PPES) from Trinity College Dublin, and a Master's from the Barcelona School of Economics.
 
 [john.w.barry@duke.edu](mailto: john.w.barry@duke.edu)
 
