@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ## Job market paper
-[**Shareholder Voice and Executive Compensation**]({{ site.baseurl }}/files/papers/shareholder_voice_jmp_jwb.pdf){:target="_blank"}{:rel="noopener noreferrer"} <br/>
+- [**Shareholder Voice and Executive Compensation**]({{ site.baseurl }}/files/papers/shareholder_voice_jmp_jwb.pdf){:target="_blank"}{:rel="noopener noreferrer"} <br/>
 <!---Shareholder Voice and Executive Compensation <br/>-->
 {{ site.time | date: '%B %Y' }} <br/>
 <!---[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412436){:target="_blank"}{:rel="noopener noreferrer"} <br/>-->
