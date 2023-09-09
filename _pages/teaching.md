@@ -5,10 +5,21 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Head TA Positions
-* **FINANCE 646 Introduction to Corporate Finance (MBA)**
-	* Professor John Graham
-	* 2020, 2021, 2022
-* **BA 952 Empirical Corporate Finance (PhD)**
-	* Professors Manuel Adelino and Jillian Grennan
-	* 2020, 2021, 2022
+## Head TA positions
+* **Corporate Finance (MBA)**
+	- John Graham
+	- 2019-2023
+* **Empirical Corporate Finance (PhD)**
+	- Manuel Adelino and Jillian Grennan
+	- 2019-2023
+
+## Other TA positions
+* **Advanced Corporate Finance (MBA)**
+	- S. Vish Viswanathan
+	- 2019-2023
+* **Foundations of Capital Markets (MMS)**
+	- Alon Brav
+	- 2021
+* **Corporate Finance (MBA)**
+	- Felipe Varas
+	- 2022
