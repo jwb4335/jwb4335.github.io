@@ -11,14 +11,14 @@ November 2023 <br/>
 **Abstract.**  Managerial influence on the Board of Directors induces an agency problem in the design of executive compensation. I evaluate the role of shareholder voice in disciplining compensation practices. I estimate a model of CEO compensation with non-binding shareholder approval votes (Say-on-Pay). The Board sets CEO pay and is biased towards a high wage; shareholders can fail the Say-on-Pay (SOP) and punish the Board for overpayment. Failed votes are perceived as costly by both the Board and shareholders: a cost of 2.06% (0.76%) of value for the Board (shareholders) is sufficient to match the data. SOP thus resembles a costly punishment mechanism and the disciplining effect of SOP increases firm value. Empirical evidence suggests the Board cost is a career and reputation concern for directors, and shareholders internalize a cost to dissenting from the Board on a prominent policy. I construct a counterfactual SOP mechanism which emulates giving a focal shareholder an advisory seat on the Board; this lowers the SOP failure rate, decreases wages and increases firm value. 
 
 ## Working papers
-- [**Project Development with Delegated Bargaining: The Role of Elevated Hurdle Rates**](<{{ site.baseurl }}/files/papers/irr_buffer.pdf>){:target="_blank"}{:rel="noopener noreferrer"}** <br/>
+- [**Project Development with Delegated Bargaining: The Role of Elevated Hurdle Rates**](<{{ site.baseurl }}/files/papers/irr_buffer.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
 _with Bruce Carlin, Alan D. Crane and John R. Graham_<br/>
 April 2023 <br/>
 [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412436){:target="_blank"}{:rel="noopener noreferrer"} <br/>
 **Abstract.** During project development, investment costs are endogenously determined through delegated bargaining with counterparties. In surveys, nearly 80% of CFOs report using an elevated hurdle rate, the implications of which we build a model to explore. We show that elevated hurdle rates can convey a bargaining advantage that exceeds the opportunity cost of forgone projects, whether these hurdle rate buffers arise for strategic or non-strategic reasons. Using CFO survey data, we find buffer use is negatively related to the cost of capital and to bargaining power, consistent with our model's predictions, and that realized returns are associated with "beat the hurdle rate benchmark" behavior.
 
 ## Publications
-- [**Corporate Flexibility in a Time of Crisis**](<{{ site.baseurl }}/files/papers/corpflex.pdf>){:target="_blank"}{:rel="noopener noreferrer"}**<br/>
+- [**Corporate Flexibility in a Time of Crisis**](<{{ site.baseurl }}/files/papers/corpflex.pdf>){:target="_blank"}{:rel="noopener noreferrer"}<br/>
 _with Murillo Campello, John R. Graham and Yueran Ma_<br/>
 **Journal of Financial Economics**, June 2022<br/>
 [internet appendix](<{{ site.baseurl }}/files/papers/corpflex_IA.pdf>){:target="blank"}{:rel="noopener noreferrer"}; [published version](<https://www.sciencedirect.com/science/article/pii/S0304405X22000630>){:target="blank"}{:rel="noopener noreferrer"}; [ssrn](<https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3778789>){:target="blank"}{:rel="noopener noreferrer"}; [github repo](<https://github.com/jwb4335/corporate_flexibility>){:target="blank"}{:rel="noopener noreferrer"}<br/>
