@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Job market paper
 - [**Shareholder Voice and Executive Compensation**](<{{ site.baseurl }}/files/papers/shareholder_voice_jmp_jwb.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
-November 2023 <br/>
+December 2023 <br/>
 [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4584580){:target="_blank"}{:rel="noopener noreferrer"} <br/>
 **Abstract.**  Managerial influence on the Board of Directors induces an agency problem in the design of executive compensation. I evaluate the role of shareholder voice in disciplining compensation practices by estimating a model of CEO compensation with non-binding shareholder approval votes (Say-on-Pay). The Board sets CEO pay and is biased towards a high wage; shareholders can fail the Say-on-Pay (SOP) and punish the Board for overpayment. Failed votes are perceived as costly by both the Board and shareholders: a cost of 2.06% (0.76%) of value for the Board (shareholders) is sufficient to match the data. SOP thus resembles a costly punishment mechanism and the disciplining effect on compensation increases firm value by 4.6% on average. Empirical evidence suggests the Board cost is a career and reputation concern for directors, and shareholders internalize a cost to dissenting from the Board on a prominent policy. I construct a counterfactual SOP mechanism which emulates giving a focal shareholder an advisory seat on the Board; this lowers the SOP failure rate, decreases wages and further increases firm value. 
 
@@ -27,6 +27,6 @@ _with Murillo Campello, John R. Graham and Yueran Ma_<br/>
 ## Works in Progress
 - **Human Capital and Mobility in the Executive Labor Market<!---({{ site.baseurl }}/files/papers/irr_buffer.pdf){:target="_blank"}{:rel="noopener noreferrer"}-->** <br/>
 _with Noah Lyman and Lin Zhao_<br/>
-November 2023 <br/>
+December 2023 <br/>
 <!---**Abstract.** We pose and estimate an equilibrium job search model of executive careers, allowing for general and firm-specific human capital accumulation, firm heterogeneity, and persistent shocks to executive productivity. Wage growth over the executive's career is decompsed into contributions of  job search and the general and firm-specific components of human capital, both within and between executive positions. Our model can rationalize the observed patterns in hiring and wages of CEOs at US public firms. Firm-specific human capital is key to executive productivity, which helps explains why over 70% of new CEOs are internal promotions. Job search leads to increases in CEO wages as external firms' poaching offers must compensate the CEO for her firm-specific human capital, _even though_ those skills do not transfer across firms.-->
 
