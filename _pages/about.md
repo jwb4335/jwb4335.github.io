@@ -12,7 +12,7 @@ Hello! I'm a PhD candidate in Finance at the Fuqua School of Business, Duke Univ
 
 I have a BA in Philosophy, Politics, Economics and Sociology (PPES) from Trinity College Dublin, and a Master's from the Barcelona School of Economics.
 
-In July 2024, I will join the finance group at Rice University Jones School of Business.
+In July, I will join the finance group at Rice University Jones School of Business!
 
 [john.w.barry@duke.edu](<mailto: john.w.barry@duke.edu>)
 
