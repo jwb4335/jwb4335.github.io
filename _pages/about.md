@@ -18,6 +18,12 @@ I have a BA in Philosophy, Politics, Economics and Sociology (PPES) from Trinity
 
 [CV](<{{ site.baseurl }}/files/vitae/CV John Barry.pdf>){:target="blank"}{:rel="noopener noreferrer"}<br/>
 
+### Updates
+- 2024.03.06: New version of [Project Development with Delegated Bargaining: The Role of Elevated Hurdle Rates](<{{ site.baseurl }}/files/papers/irr_buffer.pdf>){:target="_blank"}{:rel="noopener noreferrer"} 
+- 2024.03.09: Presenting [Shareholder Voice and Executive Compensation](<{{ site.baseurl }}/files/papers/shareholder_voice_jmp_jwb.pdf>){:target="_blank"}{:rel="noopener noreferrer"} at the MFA
+
+
+
 ## Job market paper
 - [**Shareholder Voice and Executive Compensation**](<{{ site.baseurl }}/files/papers/shareholder_voice_jmp_jwb.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
     December 2023 <br/>
@@ -39,3 +45,4 @@ I have a BA in Philosophy, Politics, Economics and Sociology (PPES) from Trinity
     (* = scheduled) LBS Transatlantic Doctoral Conference, Duke Industrial Organization Seminar, WashU Olin Finance Conference PhD Poster Session, Boca Corporate Finance and Governance Conference, MFA 2024*, EFA 2024*
 
     </details>
+

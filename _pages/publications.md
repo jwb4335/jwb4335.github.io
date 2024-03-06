@@ -22,7 +22,7 @@ December 2023 <br/>
 ## Working papers
 - [**Project Development with Delegated Bargaining: The Role of Elevated Hurdle Rates**](<{{ site.baseurl }}/files/papers/irr_buffer.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
 _with Bruce Carlin, Alan D. Crane and John R. Graham_<br/>
-April 2023 <br/>
+March 2024 <br/>
 [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412436){:target="_blank"}{:rel="noopener noreferrer"} <br/>
 	<details><summary>
 
@@ -54,6 +54,6 @@ _with Murillo Campello, John R. Graham and Yueran Ma_<br/>
 ## Works in Progress
 - **Human Capital and Mobility in the Executive Labor Market<!---({{ site.baseurl }}/files/papers/irr_buffer.pdf){:target="_blank"}{:rel="noopener noreferrer"}-->** <br/>
 _with Noah Lyman and Lin Zhao_<br/>
-December 2023 <br/>
+March 2024 <br/>
 <!---**Abstract.** We pose and estimate an equilibrium job search model of executive careers, allowing for general and firm-specific human capital accumulation, firm heterogeneity, and persistent shocks to executive productivity. Wage growth over the executive's career is decompsed into contributions of  job search and the general and firm-specific components of human capital, both within and between executive positions. Our model can rationalize the observed patterns in hiring and wages of CEOs at US public firms. Firm-specific human capital is key to executive productivity, which helps explains why over 70% of new CEOs are internal promotions. Job search leads to increases in CEO wages as external firms' poaching offers must compensate the CEO for her firm-specific human capital, _even though_ those skills do not transfer across firms.-->
 
