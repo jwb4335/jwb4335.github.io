@@ -10,9 +10,9 @@ redirect_from:
 
 Hello! I'm a PhD candidate in Finance at the Fuqua School of Business, Duke University. I conduct research in corporate finance. I study how shareholders influence executive compensation policy through shareholder voting. I'm also interested in corporate investment (including the determination of discount rates, capital budgeting and project horizons) and corporate flexibility. 
 
-I am on the 2023/2024 academic job market. 
-
 I have a BA in Philosophy, Politics, Economics and Sociology (PPES) from Trinity College Dublin, and a Master's from the Barcelona School of Economics.
+
+In July 2024, I will join the finance group at Rice University Jones School of Business.
 
 [john.w.barry@duke.edu](<mailto: john.w.barry@duke.edu>)
 
