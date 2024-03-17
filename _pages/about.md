@@ -42,7 +42,7 @@ In July, I will join the finance group at Rice University Jones School of Busine
     <strong>Presentations</strong>
 
     </summary>
-    (* = scheduled) LBS Transatlantic Doctoral Conference, Duke Industrial Organization Seminar, WashU Olin Finance Conference PhD Poster Session, Boca Corporate Finance and Governance Conference, MFA 2024*, EFA 2024*
+    (* = scheduled) LBS Transatlantic Doctoral Conference, Duke Industrial Organization Seminar, WashU Olin Finance Conference PhD Poster Session, Boca Corporate Finance and Governance Conference, MFA 2024, EFA 2024*
 
     </details>
 
