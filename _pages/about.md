@@ -20,7 +20,7 @@ In July, I will join the finance group at Rice University Jones School of Busine
 
 ### Updates
 - 2024.03.06: New version of [Project Development with Delegated Bargaining: The Role of Elevated Hurdle Rates](<{{ site.baseurl }}/files/papers/irr_buffer.pdf>){:target="_blank"}{:rel="noopener noreferrer"} 
-- 2024.03.09: Presenting [Shareholder Voice and Executive Compensation](<{{ site.baseurl }}/files/papers/shareholder_voice_jmp_jwb.pdf>){:target="_blank"}{:rel="noopener noreferrer"} at the MFA
+<!-- - 2024.03.09: Presenting [Shareholder Voice and Executive Compensation](<{{ site.baseurl }}/files/papers/shareholder_voice_jmp_jwb.pdf>){:target="_blank"}{:rel="noopener noreferrer"} at the MFA -->
 
 
 
