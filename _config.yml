@@ -85,17 +85,15 @@ staticman:
 author:
   name             : "John W. Barry"
   avatar           : "bw_cropped_2022.jpg"
-  # avatar           : "headshot.png"
-#  bio              : "PhD Candidate"
-  location         : "Duke University"
-  email            : "john.w.barry@duke.edu"
+  location         : "Houston, TX"
+  email            : "john.w.barry@rice.edu"
   github           : "jwb4335"
+  linkedin         : "https://www.linkedin.com/in/johnbarry4335/"
 #   google_plus      :
 #   keybase          :
 #   instagram        :
 #   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
 #   lastfm           :
-#   linkedin         :
 #   orcid            : "http://orcid.org/yourorcidurl"
 #   pinterest        :
 #   soundcloud       :
@@ -108,7 +106,7 @@ author:
 #   xing             :
 #   youtube          :
 #   wikipedia        :
-
+  logo             : "rice_jones_logo.png"
 
 # Reading Files
 include:
@@ -308,3 +306,8 @@ navigation:
     url: /cv/
   - title: Teaching
     url: /teaching/
+
+
+# Add a header image
+# header:
+#   image: "/assets/rice_jones_logo.png"

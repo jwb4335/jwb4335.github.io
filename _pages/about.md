@@ -8,21 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a PhD candidate in Finance at the Fuqua School of Business, Duke University. I conduct research in corporate finance. I study how shareholders influence executive compensation policy through shareholder voting. I'm also interested in corporate investment (including the determination of discount rates, capital budgeting and project horizons) and corporate flexibility. 
+Hello! I am an (incoming) Assistant Professor of Finance at Rice University Jones School of Business. I study corporate governance. My job market paper studies how shareholders influence executive compensation policy through shareholder voting. I'm also interested in corporate investment (including the determination of discount rates and capital budgeting), human capital and corporate flexibility. 
 
-I have a BA in Philosophy, Politics, Economics and Sociology (PPES) from Trinity College Dublin, and a Master's from the Barcelona School of Economics.
-
-In July, I will join the finance group at Rice University Jones School of Business!
+I have a PhD in Finance from the Fuqua School of Business at Duke University and a BA in Philosophy, Politics, Economics and Sociology (PPES) from Trinity College Dublin.
 
 [john.w.barry@duke.edu](<mailto: john.w.barry@duke.edu>)
 
 [CV](<{{ site.baseurl }}/files/vitae/CV John Barry.pdf>){:target="blank"}{:rel="noopener noreferrer"}<br/>
 
 ### Updates
+<!-- - 2024.03.06: New version of [Project Development with Delegated Bargaining: The Role of Elevated Hurdle Rates](<{{ site.baseurl }}/files/papers/irr_buffer.pdf>){:target="_blank"}{:rel="noopener noreferrer"}  -->
+- 2024.06.09: Presenting [Shareholder Voice and Executive Compensation](<{{ site.baseurl }}/files/papers/shareholder_voice_jmp_jwb.pdf>){:target="_blank"}{:rel="noopener noreferrer"} at the [Aarhus Workshop on Strategic Interaction in Corporate Finance](<https://events.au.dk/corpfin>){:target="_blank"}{:rel="noopener noreferrer"} 
 - 2024.03.06: New version of [Project Development with Delegated Bargaining: The Role of Elevated Hurdle Rates](<{{ site.baseurl }}/files/papers/irr_buffer.pdf>){:target="_blank"}{:rel="noopener noreferrer"} 
-<!-- - 2024.03.09: Presenting [Shareholder Voice and Executive Compensation](<{{ site.baseurl }}/files/papers/shareholder_voice_jmp_jwb.pdf>){:target="_blank"}{:rel="noopener noreferrer"} at the MFA -->
-
-
 
 ## Job market paper
 - [**Shareholder Voice and Executive Compensation**](<{{ site.baseurl }}/files/papers/shareholder_voice_jmp_jwb.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
@@ -42,7 +39,7 @@ In July, I will join the finance group at Rice University Jones School of Busine
     <strong>Presentations</strong>
 
     </summary>
-    (* = scheduled) LBS Transatlantic Doctoral Conference, Duke Industrial Organization Seminar, WashU Olin Finance Conference PhD Poster Session, Boca Corporate Finance and Governance Conference, MFA 2024, EFA 2024*
+    (* = scheduled) LBS Transatlantic Doctoral Conference, Duke Industrial Organization Seminar, WashU Olin Finance Conference PhD Poster Session, Boca Corporate Finance and Governance Conference, MFA 2024, Eastern Finance 2024, Aarhus Strategic Interactions in Corporate Finance Workshop*
 
     </details>
 
