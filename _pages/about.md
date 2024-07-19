@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an (incoming) Assistant Professor of Finance at Rice University Jones School of Business. I study corporate governance. My job market paper studies how shareholders influence executive compensation policy through shareholder voting. I'm also interested in corporate investment (including the determination of discount rates and capital budgeting), human capital and corporate flexibility. 
+Hello! I am an Assistant Professor of Finance at Rice University Jones School of Business. I study corporate governance. My job market paper studies how shareholders influence executive compensation policy through shareholder voting. I'm also interested in corporate governance more broadly, corporate investment (including the determination of discount rates and capital budgeting), human capital and corporate flexibility. 
 
 I have a PhD in Finance from the Fuqua School of Business at Duke University and a BA in Philosophy, Politics, Economics and Sociology (PPES) from Trinity College Dublin.
 
-[john.w.barry@duke.edu](<mailto: john.w.barry@duke.edu>)
+[john.w.barry@rice.edu](<mailto: john.w.barry@rice.edu>)
 
 [CV](<{{ site.baseurl }}/files/vitae/CV John Barry.pdf>){:target="blank"}{:rel="noopener noreferrer"}<br/>
 

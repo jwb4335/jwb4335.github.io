@@ -11,7 +11,7 @@ title                    : "John W. Barry"
 masthead_title           : "Home"
 title_separator          : "-"
 name                     : &name "John W. Barry"
-description              : &description "PhD Candidate in Finance"
+description              : &description "Assistant Professor of Finance"
 url                      : https://johnwbarry.info   # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : http://localhost:4000  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
@@ -88,7 +88,7 @@ author:
   location         : "Houston, TX"
   email            : "john.w.barry@rice.edu"
   github           : "jwb4335"
-  linkedin         : "https://www.linkedin.com/in/johnbarry4335/"
+  linkedin         : "johnbarry4335"
 #   google_plus      :
 #   keybase          :
 #   instagram        :
