@@ -43,7 +43,7 @@ I have a PhD in Finance from the Fuqua School of Business at Duke University and
     <strong>Presentations</strong>
 
     </summary>
-    (* = scheduled) LBS Transatlantic Doctoral Conference, Duke Industrial Organization Seminar, WashU Olin Finance Conference PhD Poster Session, Boca Corporate Finance and Governance Conference, MFA 2024, Eastern Finance 2024, Aarhus Strategic Interactions in Corporate Finance Workshop*
+    (* = scheduled) LBS Transatlantic Doctoral Conference, Duke Industrial Organization Seminar, WashU Olin Finance Conference PhD Poster Session, Boca Corporate Finance and Governance Conference, MFA 2024, Eastern Finance 2024, Aarhus Strategic Interactions in Corporate Finance Workshop, UTD Finance Conference*
 
     </details>
 
