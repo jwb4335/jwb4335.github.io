@@ -17,9 +17,13 @@ I have a PhD in Finance from the Fuqua School of Business at Duke University and
 [CV](<{{ site.baseurl }}/files/vitae/CV John Barry.pdf>){:target="blank"}{:rel="noopener noreferrer"}<br/>
 
 ### Updates
-<!-- - 2024.03.06: New version of [Project Development with Delegated Bargaining: The Role of Elevated Hurdle Rates](<{{ site.baseurl }}/files/papers/irr_buffer.pdf>){:target="_blank"}{:rel="noopener noreferrer"}  -->
+<!-- - 2024.03.06: New version of [Project Development with Delegated Bargaining: The Role of Elevated Hurdle Rates](<{{ site.baseurl }}/files/papers/irr_buffer.pdf>){:target="_blank"}{:rel="noopener noreferrer"}  
 - 2024.06.09: Presenting [Shareholder Voice and Executive Compensation](<{{ site.baseurl }}/files/papers/shareholder_voice_jmp_jwb.pdf>){:target="_blank"}{:rel="noopener noreferrer"} at the [Aarhus Workshop on Strategic Interaction in Corporate Finance](<https://events.au.dk/corpfin>){:target="_blank"}{:rel="noopener noreferrer"} 
 - 2024.03.06: New version of [Project Development with Delegated Bargaining: The Role of Elevated Hurdle Rates](<{{ site.baseurl }}/files/papers/irr_buffer.pdf>){:target="_blank"}{:rel="noopener noreferrer"} 
+-->
+- 2024.08.15: Presenting [Shareholder Voice and Executive Compensation](<{{ site.baseurl }}/files/papers/shareholder_voice_jmp_jwb.pdf>){:target="_blank"}{:rel="noopener noreferrer"} at the [UTD Finance Conference](<https://jindal.utdallas.edu/events/ut-dallas-fall-finance-conference-2024/>){:target="_blank"}{:rel="noopener noreferrer"} 
+- 2024.08.10: Presenting new work Human Capital and Mobility in the Executive Labor Market at the [Lone Star Finance Symposium](<https://www.utep.edu/business/economics-and-finance/LSFS24/lone-star-2024.html>){:target="_blank"}{:rel="noopener noreferrer"} 
+
 
 ## Job market paper
 - [**Shareholder Voice and Executive Compensation**](<{{ site.baseurl }}/files/papers/shareholder_voice_jmp_jwb.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
