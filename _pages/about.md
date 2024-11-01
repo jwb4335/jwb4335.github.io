@@ -27,7 +27,7 @@ I have a PhD in Finance from the Fuqua School of Business at Duke University and
 
 ## Job market paper
 - [**Shareholder Voice and Executive Compensation**](<{{ site.baseurl }}/files/papers/shareholder_voice_jmp_jwb.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
-    December 2023 <br/>
+    December 2023 _Revision in progress, updated draft available upon request_ <br/>
     [ssrn](<https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4584580>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
     <details open><summary>
 
@@ -35,7 +35,7 @@ I have a PhD in Finance from the Fuqua School of Business at Duke University and
 
     </summary>
 
-    Managerial influence on the Board of Directors induces an agency problem in the design of executive compensation. I evaluate the role of shareholder voice in disciplining compensation practices by estimating a model of CEO compensation with non-binding shareholder approval votes (Say-on-Pay). The Board sets CEO pay and is biased towards a high wage; shareholders can fail the Say-on-Pay (SOP) and punish the Board for overpayment. Failed votes are perceived as costly by both the Board and shareholders: a cost of 2.06% (0.76%) of value for the Board (shareholders) is sufficient to match the data. SOP thus resembles a costly punishment mechanism and the disciplining effect on compensation increases firm value by 4.6% on average. Empirical evidence suggests the Board cost is a career and reputation concern for directors, and shareholders internalize a cost to dissenting from the Board on a prominent policy. I construct a counterfactual SOP mechanism which emulates giving a focal shareholder an advisory seat on the Board; this lowers the SOP failure rate, decreases wages and further increases firm value. 
+    I estimate a model of CEO compensation with non-binding shareholder approval votes (Say-on-Pay). The Board sets pay and may be biased toward high pay; shareholders can fail the vote and punish the Board for overpayment. I estimate that failed votes are costly to both parties. Say-on-Pay resembles a costly punishment mechanism: its disciplining effect raises firm value by 2.2\% on average, despite only 7\% of votes failing. I analyze a counterfactual binding Say-on-Pay: vote failure fixes CEO pay to its previous level, which may not reflect current information about CEO skill. The vote failure rate falls, pay levels increase and firm value decreases.
 
     </details>
     <details open><summary>

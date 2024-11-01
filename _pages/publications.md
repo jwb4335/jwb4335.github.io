@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Job market paper
 - [**Shareholder Voice and Executive Compensation**](<{{ site.baseurl }}/files/papers/shareholder_voice_jmp_jwb.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
-December 2023 <br/>
+December 2023 _Revision in progress, updated draft available upon request_ <br/>
 [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4584580){:target="_blank"}{:rel="noopener noreferrer"} <br/>
 	<details><summary>
 
@@ -14,12 +14,25 @@ December 2023 <br/>
 
 	</summary>
 	
-	Managerial influence on the Board of Directors induces an agency problem in the design of executive compensation. I evaluate the role of shareholder voice in disciplining compensation practices by estimating a model of CEO compensation with non-binding shareholder approval votes (Say-on-Pay). The Board sets CEO pay and is biased towards a high wage; shareholders can fail the Say-on-Pay (SOP) and punish the Board for overpayment. Failed votes are perceived as costly by both the Board and shareholders: a cost of 2.06% (0.76%) of value for the Board (shareholders) is sufficient to match the data. SOP thus resembles a costly punishment mechanism and the disciplining effect on compensation increases firm value by 4.6% on average. Empirical evidence suggests the Board cost is a career and reputation concern for directors, and shareholders internalize a cost to dissenting from the Board on a prominent policy. I construct a counterfactual SOP mechanism which emulates giving a focal shareholder an advisory seat on the Board; this lowers the SOP failure rate, decreases wages and further increases firm value.
-
+    I estimate a model of CEO compensation with non-binding shareholder approval votes (Say-on-Pay). The Board sets pay and may be biased toward high pay; shareholders can fail the vote and punish the Board for overpayment. I estimate that failed votes are costly to both parties. Say-on-Pay resembles a costly punishment mechanism: its disciplining effect raises firm value by 2.2\% on average, despite only 7\% of votes failing. I analyze a counterfactual binding Say-on-Pay: vote failure fixes CEO pay to its previous level, which may not reflect current information about CEO skill. The vote failure rate falls, pay levels increase and firm value decreases.
 	</details>
 
 
 ## Working papers
+<!-- - [**Human Capital, Competition and Mobility in the Managerial Labor Market**](<{{ site.baseurl }}/files/papers/ceo_human_capital.pdf>){:target="_blank"}{:rel="noopener noreferrer"}<br/> -->
+- **Human Capital, Competition and mobility in the Managerial Labor Market** _Draft available upon request_ <br/>
+_with Noah Lyman and Lin Zhao_<br/>
+March 2024 <br/>
+	<details><summary>
+
+	<strong>Abstract</strong>
+
+	</summary>
+
+	We  estimate a search model of managerial careers to quantify the relative importance of human capital accumulation (both general and firm-specific), managerial bargaining power, and imperfect labor market competition in shaping compensation and mobility in the market for US corporate executives. The composition of human capital is career-dependent and varies widely across managers:  over tenure, firm-specific capital is the greatest driver of wage growth, whereas over experience in the labor market, job search and  competition dominate. Firm-specific capital can help explain the high rate of internal CEO hires and low observed cross-firm CEO mobility. We further show that labor market competition (relative to pure bargaining power) makes up the majority of realized CEO surplus capture, and that firm-specific human capital positively interacts with competition in determining CEOs' shares of rents as it raises the match-specific quality between the firm and manager. 
+
+	</details>
+
 - [**Project Development with Delegated Bargaining: The Role of Elevated Hurdle Rates**](<{{ site.baseurl }}/files/papers/irr_buffer.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
 _with Bruce Carlin, Alan D. Crane and John R. Graham_<br/>
 March 2024 <br/>
@@ -51,9 +64,4 @@ _with Murillo Campello, John R. Graham and Yueran Ma_<br/>
 	</details>
 
 
-## Works in Progress
-- **Human Capital and Mobility in the Executive Labor Market<!---({{ site.baseurl }}/files/papers/irr_buffer.pdf){:target="_blank"}{:rel="noopener noreferrer"}-->** <br/>
-_with Noah Lyman and Lin Zhao_<br/>
-March 2024 <br/>
-<!---**Abstract.** We pose and estimate an equilibrium job search model of executive careers, allowing for general and firm-specific human capital accumulation, firm heterogeneity, and persistent shocks to executive productivity. Wage growth over the executive's career is decompsed into contributions of  job search and the general and firm-specific components of human capital, both within and between executive positions. Our model can rationalize the observed patterns in hiring and wages of CEOs at US public firms. Firm-specific human capital is key to executive productivity, which helps explains why over 70% of new CEOs are internal promotions. Job search leads to increases in CEO wages as external firms' poaching offers must compensate the CEO for her firm-specific human capital, _even though_ those skills do not transfer across firms.-->
-
+<!-- ## Works in Progress -->
