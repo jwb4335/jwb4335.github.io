@@ -27,7 +27,8 @@ I have a PhD in Finance from the Fuqua School of Business at Duke University and
 
 ## Job market paper
 - [**Shareholder Voice and Executive Compensation**](<{{ site.baseurl }}/files/papers/shareholder_voice_jmp_jwb.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
-    December 2023 _Revision in progress, updated draft available upon request_ <br/>
+    November 2024 <br/>
+   _Revision in progress, updated draft available upon request_ <br/>
     [ssrn](<https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4584580>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
     <details open><summary>
 
