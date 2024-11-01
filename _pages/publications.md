@@ -21,7 +21,7 @@ _Revision in progress, updated draft available upon request_ <br/>
 
 ## Working papers
 <!-- - [**Human Capital, Competition and Mobility in the Managerial Labor Market**](<{{ site.baseurl }}/files/papers/ceo_human_capital.pdf>){:target="_blank"}{:rel="noopener noreferrer"}<br/> -->
-- **Human Capital, Competition and mobility in the Managerial Labor Market** <br/>
+- **Human Capital, Competition and Mobility in the Managerial Labor Market** <br/>
 _with Noah Lyman and Lin Zhao_<br/>
 November 2024 <br/>
 _Draft available upon request_ <br/>
