@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Job market paper
 - [**Shareholder Voice and Executive Compensation**](<{{ site.baseurl }}/files/papers/shareholder_voice_jmp_jwb.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
-December 2023 <br/>
+November 2024 <br/>
 _Revision in progress, updated draft available upon request_ <br/>
 [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4584580){:target="_blank"}{:rel="noopener noreferrer"} <br/>
 	<details><summary>
@@ -22,9 +22,10 @@ _Revision in progress, updated draft available upon request_ <br/>
 ## Working papers
 <!-- - [**Human Capital, Competition and Mobility in the Managerial Labor Market**](<{{ site.baseurl }}/files/papers/ceo_human_capital.pdf>){:target="_blank"}{:rel="noopener noreferrer"}<br/> -->
 - **Human Capital, Competition and mobility in the Managerial Labor Market** <br/>
-_Draft available upon request_ <br/>
 _with Noah Lyman and Lin Zhao_<br/>
 November 2024 <br/>
+_Draft available upon request_ <br/>
+
 	<details><summary>
 
 	<strong>Abstract</strong>
