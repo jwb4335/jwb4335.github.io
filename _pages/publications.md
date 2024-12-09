@@ -4,27 +4,24 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## Job market paper
-- [**Shareholder Voice and Executive Compensation**](<{{ site.baseurl }}/files/papers/shareholder_voice_jmp_jwb.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
-November 2024 <br/>
-_Revision in progress, updated draft available upon request_ <br/>
-[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4584580){:target="_blank"}{:rel="noopener noreferrer"}
+## Working papers
+- [**Shareholder Voice and Executive Compensation**](<{{ site.baseurl }}/files/papers/shareholder_voice.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
+December 2024 <br/>
+[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4584580){:target="_blank"}{:rel="noopener noreferrer"} <br/>
 	<details><summary>
 
 	<strong>Abstract</strong>
 
 	</summary>
 	
-    I estimate a model of CEO compensation with non-binding shareholder approval votes (Say-on-Pay). The Board sets pay and may be biased toward high pay; shareholders can fail the vote and punish the Board for overpayment. I estimate that failed votes are costly to both parties. Say-on-Pay resembles a costly punishment mechanism: its disciplining effect raises firm value by 2.4% on average, despite only 7% of votes failing. I analyze a counterfactual binding Say-on-Pay: vote failure fixes CEO pay to its previous level, which may not reflect current information about CEO skill. The vote failure rate falls, pay levels increase and firm value decreases.
+	I estimate a model of CEO compensation with non-binding shareholder approval votes (Say-on-Pay). The Board sets compensation and (relative to shareholders) may prefer high total pay; shareholders can fail the vote and punish the Board for high pay. Failed votes are perceived as costly by the Board and shareholders: Say-on-Pay resembles a costly punishment mechanism, raising firm value by 2.4% on average, despite only 7% of votes failing. I analyze a counterfactual binding vote: failure binds pay to prior levels, which may not reflect current information about CEO ability. The failure rate falls, pay levels increase and firm value decreases.
 	</details>
 
 
-## Working papers
-<!-- - [**Human Capital, Competition and Mobility in the Managerial Labor Market**](<{{ site.baseurl }}/files/papers/ceo_human_capital.pdf>){:target="_blank"}{:rel="noopener noreferrer"}<br/> -->
 - **Human Capital, Competition and Mobility in the Managerial Labor Market** <br/>
 _with Noah Lyman and Lin Zhao_<br/>
 November 2024 <br/>
-_Draft available upon request_ 
+_Draft available upon request_ <br/>
 	<details><summary>
 
 	<strong>Abstract</strong>
@@ -35,17 +32,18 @@ _Draft available upon request_
 
 	</details>
 
-- [**Project Development with Delegated Bargaining: The Role of Elevated Hurdle Rates**](<{{ site.baseurl }}/files/papers/irr_buffer.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
+- [**Sacred Hurdle Rates and Bargaining Power**](<{{ site.baseurl }}/files/papers/irr_buffer.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
 _with Bruce Carlin, Alan D. Crane and John R. Graham_<br/>
-March 2024 <br/>
-[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412436){:target="_blank"}{:rel="noopener noreferrer"} 
+December 2024 <br/>
+[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412436){:target="_blank"}{:rel="noopener noreferrer"} <br/>
+_previously circulated as Project Development with Delegated Bargaining: The Role of Elevated Hurdle Rates_ <br/>
 	<details><summary>
 
 	<strong>Abstract</strong>
 
 	</summary>
 
-	During project development, investment costs are endogenously determined through delegated bargaining with counterparties. In surveys, nearly 80% of CFOs report using an elevated hurdle rate, the implications of which we build a model to explore. We show that elevated hurdle rates can convey a bargaining advantage that exceeds the opportunity cost of forgone projects, whether these hurdle rate buffers arise for strategic or non-strategic reasons. Using CFO survey data, we find buffer use is negatively related to the cost of capital and to bargaining power, consistent with our model's predictions, and that realized returns are associated with "beat the hurdle rate benchmark" behavior.
+	CFOs report using buffered hurdle rates averaging 6.6 percentage points above the cost of capital. These are taken as given by managers (considered sacred) and are central to company activity: realized returns in our data cluster just above elevated hurdle rates. Buffers convey a bargaining advantage over counterparties in project development and M&A. Our model shows this benefit can exceed the opportunity cost of forgone projects, preserving firm value. Consistent with the model, bidders' elevated hurdle rates in M&A deals associate with higher surplus capture ex post; and in CFO survey data, buffers negatively relate to ex ante bargaining power.
 
 	</details>
 
