@@ -17,8 +17,8 @@ I have a PhD in Finance from the Fuqua School of Business at Duke University and
 [CV](<{{ site.baseurl }}/files/vitae/CV John Barry.pdf>){:target="blank"}{:rel="noopener noreferrer"}<br/>
 
 ### Updates
-- 2024.12.10: <span style="color: red;">**New version**</span> of [Shareholder Voice and Executive Compensation](<{{ site.baseurl }}/files/papers/shareholder_voice.pdf>){:target="_blank"}{:rel="noopener noreferrer"}
-- 2024.12.10: <span style="color: red;">**New version**</span> of [Sacred Hurdle Rates and Bargaining Power](<{{ site.baseurl }}/files/papers/irr_buffer.pdf>){:target="_blank"}{:rel="noopener noreferrer"}
+- 2024.12.09: <span style="color: red;">**New version**</span> of [Shareholder Voice and Executive Compensation](<{{ site.baseurl }}/files/papers/shareholder_voice.pdf>){:target="_blank"}{:rel="noopener noreferrer"}
+- 2024.12.09: <span style="color: red;">**New version**</span> of [Sacred Hurdle Rates and Bargaining Power](<{{ site.baseurl }}/files/papers/irr_buffer.pdf>){:target="_blank"}{:rel="noopener noreferrer"}
   - _previously circulated as Project Development with Delegated Bargaining: The Role of Elevated Hurdle Rates_
 - 2024.11.15: Presenting Human Capital, Competition and Mobility in the Managerial Labor Market at ITAM Finance conference
 
