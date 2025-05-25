@@ -5,6 +5,20 @@ permalink: /research/
 author_profile: true
 ---
 ## Working papers
+- [**Human Capital, Competition and Mobility in the Managerial Labor Market**](<{{ site.baseurl }}/files/papers/ceo_human_capital.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
+_with Noah Lyman and Lin Zhao_<br/>
+May 2025 <br/>
+[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4584580){:target="_blank"}{:rel="noopener noreferrer"} <br/>
+	<details><summary>
+
+	<strong>Abstract</strong>
+
+	</summary>
+
+	We pose and estimate a model of the managerial labor market to quantify the relative importance of general and firm-specific human capital, managerial bargaining power, and imperfect labor market competition in shaping compensation and mobility. Over tenure at a firm, firm-specific and general human capital are roughly equal drivers of compensation growth, whereas job search and contractual improvements dominate over experience in the labor market. Firm-specific skill significantly impacts executive mobility and can help explain the low rate of external CEO hiring. We further show that labor market competition (relative to pure managerial bargaining power) is an important driver of realized CEO surplus capture, and that firm-specific human capital positively interacts with competition in determining CEOs' shares of rents as it raises the match-specific productivity between the firm and manager.
+
+	</details>
+
 - [**Shareholder Voice and Executive Compensation**](<{{ site.baseurl }}/files/papers/shareholder_voice.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
 December 2024 <br/>
 [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4584580){:target="_blank"}{:rel="noopener noreferrer"} <br/>
@@ -15,23 +29,8 @@ December 2024 <br/>
 	</summary>
 	
 	I estimate a model of CEO compensation with non-binding shareholder approval votes (Say-on-Pay). The Board sets compensation and (relative to shareholders) may prefer high total pay; shareholders can fail the vote and punish the Board for high pay. Failed votes are perceived as costly by the Board and shareholders: Say-on-Pay resembles a costly punishment mechanism, raising firm value by 2.4% on average, despite only 7% of votes failing. I analyze a counterfactual binding vote: failure binds pay to prior levels, which may not reflect current information about CEO ability. The failure rate falls, pay levels increase and firm value decreases.
+	
 	</details>
-
-
-- **Human Capital, Competition and Mobility in the Managerial Labor Market** <br/>
-_with Noah Lyman and Lin Zhao_<br/>
-November 2024 <br/>
-_Draft available upon request_ <br/>
-	<details><summary>
-
-	<strong>Abstract</strong>
-
-	</summary>
-
-	We  estimate a search model of managerial careers to quantify the relative importance of human capital accumulation (both general and firm-specific), managerial bargaining power, and imperfect labor market competition in shaping compensation and mobility in the market for US corporate executives. The composition of human capital is career-dependent and varies widely across managers:  over tenure, firm-specific capital is the greatest driver of wage growth, whereas over experience in the labor market, job search and  competition dominate. Firm-specific capital can help explain the high rate of internal CEO hires and low observed cross-firm CEO mobility. We further show that labor market competition (relative to pure bargaining power) makes up the majority of realized CEO surplus capture, and that firm-specific human capital positively interacts with competition in determining CEOs' shares of rents as it raises the match-specific quality between the firm and manager. 
-
-	</details>
-
 - [**Sacred Hurdle Rates and Bargaining Power**](<{{ site.baseurl }}/files/papers/irr_buffer.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
 _with Bruce Carlin, Alan D. Crane and John R. Graham_<br/>
 December 2024 <br/>
