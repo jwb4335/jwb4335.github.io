@@ -15,7 +15,9 @@ May 2025 <br/>
 
 	</summary>
 
-	We pose and estimate a model of the managerial labor market to quantify the relative importance of general and firm-specific human capital, managerial bargaining power, and imperfect labor market competition in shaping compensation and mobility. Over tenure at a firm, firm-specific and general human capital are roughly equal drivers of compensation growth, whereas job search and contractual improvements dominate over experience in the labor market. Firm-specific skill significantly impacts executive mobility and can help explain the low rate of external CEO hiring. We further show that labor market competition (relative to pure managerial bargaining power) is an important driver of realized CEO surplus capture, and that firm-specific human capital positively interacts with competition in determining CEOs' shares of rents as it raises the match-specific productivity between the firm and manager.
+	We pose and estimate a model of the managerial labor market to quantify the relative importance of general and firm-specific human capital, managerial bargaining power, and labor market competition in shaping compensation and mobility. We decompose compensation growth over both tenure at the firm and labor market experience, finding firm-specific human capital to be an important driver in both cases. Firm-specific skill restricts mobility and can help explain the low rate of external CEO hiring. We decouple the effects of managerial bargaining power and labor market competition on managers' realized share of rents and show that neglecting the role of competition biases estimates of managers' bargaining power. Furthermore, we find that firm-specific human capital enhances managers' ability to extract rents from incumbents as it raises the match-specific quality between the manager and firm.
+
+
 
 	</details>
 
