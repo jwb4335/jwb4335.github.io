@@ -8,7 +8,7 @@ author_profile: true
 - [**Human Capital, Competition and Mobility in the Managerial Labor Market**](<{{ site.baseurl }}/files/papers/ceo_human_capital.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
 _with Noah Lyman and Lin Zhao_<br/>
 May 2025 <br/>
-[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4584580){:target="_blank"}{:rel="noopener noreferrer"} <br/>
+[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5267762){:target="_blank"}{:rel="noopener noreferrer"} <br/>
 	<details><summary>
 
 	<strong>Abstract</strong>
