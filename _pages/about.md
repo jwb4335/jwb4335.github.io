@@ -33,4 +33,8 @@ I have a PhD in Finance from the Fuqua School of Business at Duke University and
 
     I estimate a model of CEO compensation with non-binding shareholder approval votes (Say-on-Pay). The Board sets compensation and (relative to shareholders) may prefer high total pay; shareholders can fail the vote and punish the Board for high pay. Failed votes are perceived as costly by the Board and shareholders: Say-on-Pay resembles a costly punishment mechanism, raising firm value by 2.4% on average, despite only 7% of votes failing. I analyze a counterfactual binding vote: failure binds pay to prior levels, which may not reflect current information about CEO ability. The failure rate falls, pay levels increase and firm value decreases.
     </details>
-    <details open><summary>
+
+
+
+
+
