@@ -7,7 +7,7 @@ author_profile: true
 ## Working papers
 - [**Human Capital, Competition and Mobility in the Managerial Labor Market**](<{{ site.baseurl }}/files/papers/ceo_human_capital.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
 _with Noah Lyman and Lin Zhao_<br/>
-May 2025 <br/>
+June 2025 <br/>
 [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5267762){:target="_blank"}{:rel="noopener noreferrer"} <br/>
 	<details><summary>
 
@@ -15,8 +15,7 @@ May 2025 <br/>
 
 	</summary>
 
-	We pose and estimate a model of the managerial labor market to quantify the relative importance of general and firm-specific human capital, managerial bargaining power, and labor market competition in shaping compensation and mobility. We decompose compensation growth over both tenure at the firm and labor market experience, finding firm-specific human capital to be an important driver in both cases. Firm-specific skill restricts mobility and can help explain the low rate of external CEO hiring. We decouple the effects of managerial bargaining power and labor market competition on managers' realized share of rents and show that neglecting the role of competition biases estimates of managers' bargaining power. Furthermore, we find that firm-specific human capital enhances managers' ability to extract rents from incumbents as it raises the match-specific quality between the manager and firm.
-
+	We pose a structural model of the managerial labor market with general and firm-specific human capital accumulation, managerial bargaining power, and imperfect labor market competition. Empirically, firm-specific human capital is an important driver of wage growth over tenure and experience; it also quantitatively restricts mobility and can help explain the low rate of external CEO hiring. We decouple bargaining power from labor market competition in determining managerial rent extraction, with the latter forming a significant portion, particularly for poached CEOs. We show that firm-specific skill accumulation shapes the dynamics of rent extraction: by raising match-specific productivity between the firm and manager, it increases growth in managerial rent extraction over tenure but lowers it over experience.
 
 
 	</details>
