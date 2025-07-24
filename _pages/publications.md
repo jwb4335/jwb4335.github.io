@@ -32,18 +32,19 @@ December 2024 <br/>
 	I estimate a model of CEO compensation with non-binding shareholder approval votes (Say-on-Pay). The Board sets compensation and (relative to shareholders) may prefer high total pay; shareholders can fail the vote and punish the Board for high pay. Failed votes are perceived as costly by the Board and shareholders: Say-on-Pay resembles a costly punishment mechanism, raising firm value by 2.4% on average, despite only 7% of votes failing. I analyze a counterfactual binding vote: failure binds pay to prior levels, which may not reflect current information about CEO ability. The failure rate falls, pay levels increase and firm value decreases.
 	
 	</details>
-- [**Sacred Hurdle Rates and Bargaining Power**](<{{ site.baseurl }}/files/papers/irr_buffer.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
+- [**Hurdle Rate Buffers and Bargaining Power in Asset Acquisition**](<{{ site.baseurl }}/files/papers/irr_buffer.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
 _with Bruce Carlin, Alan D. Crane and John R. Graham_<br/>
-December 2024 <br/>
+July 2025 (_Conditionally accepted at Journal of Financial Economics_)<br/>
 [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412436){:target="_blank"}{:rel="noopener noreferrer"} <br/>
-_previously circulated as Project Development with Delegated Bargaining: The Role of Elevated Hurdle Rates_ <br/>
+_previously circulated as Project Development with Delegated Bargaining: The Role of Inflated Hurdle Rates_ <br/>
 	<details><summary>
 
 	<strong>Abstract</strong>
 
 	</summary>
 
-	CFOs report using buffered hurdle rates averaging 6.6 percentage points above the cost of capital. These are taken as given by managers (considered sacred) and are central to company activity: realized returns in our data cluster just above elevated hurdle rates. Buffers convey a bargaining advantage over counterparties in project development and M&A. Our model shows this benefit can exceed the opportunity cost of forgone projects, preserving firm value. Consistent with the model, bidders' elevated hurdle rates in M&A deals associate with higher surplus capture ex post; and in CFO survey data, buffers negatively relate to ex ante bargaining power.
+	CFOs report using elevated hurdle rates that average 6.6 percentage points above the cost of capital. 
+	We show that hurdle rate buffers act as a commitment device and convey a bargaining advantage over counterparties during project development and M\&A. This benefit can exceed the opportunity cost of forgone projects and acquisitions, preserving firm value. Consistent with our model, bidders’ elevated hurdle rates in M\&A deals associate with higher surplus capture ex post; in CFO survey data, hurdle rate buffers negatively relate to ex ante bargaining power, and realized returns cluster just above elevated hurdle rates.
 
 	</details>
 
