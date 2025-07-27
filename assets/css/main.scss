@@ -1,15 +1,6 @@
 ---
 ---
 
-/*
- *    Minimal Mistakes Jekyll Theme
- *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
- *
-*/
-
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -40,3 +31,41 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* ==========================================================================
+   Force vertical stack of author avatar, name, and links
+   ========================================================================== */
+
+@media screen {
+  .author__stacked {
+    display: flex ;
+    flex-direction: column ;
+    align-items: flex-start ;
+    gap: 0.5rem ;
+    margin-bottom: 1rem;   // or padding-bottom: 1rem;
+  }
+
+  .author__avatar,
+  .author__content,
+  .author__urls-wrapper,
+  .author__logo {
+    position: relative;
+    display: block ;
+    float: none ;
+    width: 100% ;
+    padding: 0 ;
+    margin: 0 ;
+  }
+
+  .author__avatar img,
+  .author__logo img {
+    width: 200px;
+    height: auto ;
+    border-radius: 10% ;
+  }
+
+  .author__content {
+    padding-left: 0 ;
+    padding-right: 0 ;
+  }
+
+}

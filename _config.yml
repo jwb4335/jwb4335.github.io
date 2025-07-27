@@ -113,6 +113,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - assets/webfonts      # ← add this line
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
