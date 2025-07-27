@@ -111,17 +111,17 @@
 /* === Responsive PDF container =============================== */
 .pdf-wrapper {
   position: relative;
-  padding-top: 141%;          /*  = height/width  (e.g.  1100 / 780 ≈ 1.41)  */
+  padding-top: 2rem;          /*  = height/width  (e.g.  1100 / 780 ≈ 1.41)  */
   margin-bottom: 2rem;        /* space under the viewer                       */
 }
 
 .pdf-wrapper object {
   position: absolute;
-  inset: 0;                   /* stretch to all four edges                    */
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
 }
-
 /* iPhones and other narrow screens — hide the inline viewer */
 @media (max-width: 600px) {
   .pdf-wrapper { display: none; }
