@@ -21,9 +21,5 @@ redirect_from:
 <!-- ---------- responsive inline viewer (hidden on very small screens) --- -->
 <div class="pdf-wrapper">
   <object data="{{ pdf_url }}" type="application/pdf" width="100%" height="100%">
-    <p>
-      Couldn’t display the PDF.  
-      <a href="{{ pdf_url }}">Download instead.</a>
-    </p>
   </object>
 </div>
