@@ -14,7 +14,7 @@ redirect_from:
 <!-- ---------- fallback link (always visible) ---------------------------- -->
 <p>
   <a href="{{ pdf_url }}" target="_blank" rel="noopener noreferrer">
-    ► Open CV as PDF
+    Open in new tab
   </a>
 </p>
 

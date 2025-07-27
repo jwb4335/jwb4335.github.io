@@ -126,3 +126,11 @@
 @media (max-width: 600px) {
   .pdf-wrapper { display: none; }
 }
+
+/* ============================================================
+   iOS/WebKit browsers: hide inline PDF viewer
+   ============================================================ */
+@media (pointer: coarse) and (-webkit-touch-callout: none) {
+  /* All iPhones and iPads – regardless of pixel-density or orientation */
+  .pdf-wrapper { display: none; }
+}
