@@ -97,12 +97,12 @@
 /* ----------------------------------------------------------
    Make the Rice logo fill the screen on phones
    ---------------------------------------------------------- */
-@media (max-width: 600px) {      // pick the breakpoint you treat as “mobile”
-  .author__logo img {            // or whatever selector your Rice logo uses
-    width: 75vw;                // take the whole viewport width
-    max-width: none;             // remove upper‑width limits
-    height: auto;                // keep the aspect‑ratio
-    display: block;              // prevent inline‑element gaps
-    margin: 0;                   // remove any inherited side margins
-  }
-}
+// @media (max-width: 600px) {      // pick the breakpoint you treat as “mobile”
+//   .author__logo img {            // or whatever selector your Rice logo uses
+//     width: 75vw;                // take the whole viewport width
+//     max-width: none;             // remove upper‑width limits
+//     height: auto;                // keep the aspect‑ratio
+//     display: block;              // prevent inline‑element gaps
+//     margin: 0;                   // remove any inherited side margins
+//   }
+// }
