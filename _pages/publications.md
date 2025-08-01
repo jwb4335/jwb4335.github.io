@@ -36,7 +36,7 @@ December 2024 <br/>
 _with Bruce Carlin, Alan D. Crane and John R. Graham_<br/>
 July 2025 <br/>
 [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412436){:target="_blank"}{:rel="noopener noreferrer"} <br/>
-_Conditionally accepted at Journal of Financial Economics_<br/>
+_conditionally accepted at Journal of Financial Economics_<br/>
 _previously circulated as Project Development with Delegated Bargaining: The Role of Inflated Hurdle Rates_ <br/>
 	<details><summary>
 
