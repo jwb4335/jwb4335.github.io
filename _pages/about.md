@@ -17,8 +17,8 @@ I have a PhD in Finance from the Fuqua School of Business at Duke University and
 [CV](<{{ site.baseurl }}/files/vitae/CV John Barry.pdf>){:target="blank"}{:rel="noopener noreferrer"}<br/>
 
 ### Updates
-- 2025.12.08: Presenting **Executive Mobility in the United States, 1920-2023** at  the [Fall 2025 Labor and Finance Conference](https://esmt.berlin/2025-lfg-conference) and the [LSU Mardi Gras Conference](https://www.lsu.edu/business/finance/finance-conference.php)
--  <span style="color: red;">**Completely new versions**</span> of [**Shareholder Voice and Executive Compensation**](<{{ site.baseurl }}/files/papers/shareholder_voice.pdf>){:target="_blank"}{:rel="noopener noreferrer"}, Information and Preferences in Shareholder Voting, and Executive Mobility in the United States, 1920-2023 coming very soon!
+- 2025.12.08: <u>Presenting Executive Mobility in the United States, 1920-2023</u> at  the [Fall 2025 Labor and Finance Conference](https://esmt.berlin/2025-lfg-conference) and the [LSU Mardi Gras Conference](https://www.lsu.edu/business/finance/finance-conference.php)
+-  <span style="color: red;">**Completely new versions**</span> of [**Shareholder Voice and Executive Compensation**](<{{ site.baseurl }}/files/papers/shareholder_voice.pdf>){:target="_blank"}{:rel="noopener noreferrer"}, <u>Information and Preferences in Shareholder Voting</u>, and <u>Executive Mobility in the United States, 1920-2023</u> coming very soon!
 - 2025.09.15: <span style="color: red;">**New version**</span> [Human Capital, Competition and Mobility in the Managerial Labor Market](<{{ site.baseurl }}/files/papers/ceo_human_capital.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
   - Presensing at [NBER Economics of Executive Compensation Conference](https://www.nber.org/conferences/economics-executive-compensation-research-conference-fall-2025) on 2025.10.09
 
