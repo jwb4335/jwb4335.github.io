@@ -16,7 +16,8 @@ I have a PhD in Finance from the Fuqua School of Business at Duke University and
 
 [CV](<{{ site.baseurl }}/files/vitae/CV John Barry.pdf>){:target="blank"}{:rel="noopener noreferrer"}<br/>
 
-### Updates
+## Updates
+
 - 2026.01.14: <span style="color: red;">**Completely new version**</span> of [Shareholder Voice and Executive Compensation](<{{ site.baseurl }}/files/papers/shareholder_voice.pdf>){:target="_blank"}{:rel="noopener noreferrer"}
 - <span style="color: red;">**New versions**</span> of <u>Information and Preferences in Shareholder Voting</u>, and <u>Executive Mobility in the United States, 1920-2023</u> coming very soon!
 - 2025.12.19: <span style="color: red;">**New version**</span> of [Human Capital, Competition and Mobility in the Managerial Labor Market](<{{ site.baseurl }}/files/papers/ceo_human_capital.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
