@@ -483,9 +483,9 @@ details summary::after {
             color: black; /* Set a specific color for the text */
 
         }
-.page__content li::marker {
+li::marker {
   font-size: 0.9em;
-  color: $link-color;
+  color: black;
 }
 
 
