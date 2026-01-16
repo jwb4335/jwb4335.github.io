@@ -6,7 +6,8 @@ author_profile: true
 ---
 ## Working papers
 
-- [**Shareholder Voice and Executive Compensation**](<{{ site.baseurl }}/files/papers/shareholder_voice.pdf>){:target="_blank"}{:rel="noopener noreferrer"}_
+- [**Shareholder Voice and Executive Compensation**](<{{ site.baseurl }}/files/papers/shareholder_voice.pdf>){:target="_blank"}{:rel="noopener noreferrer"}
+  
   <ul style="list-style-type:none; padding-left:0; margin:0;">
     <li>January 2026, <em>submitted</em></li>
     <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4584580" target="_blank" rel="noopener noreferrer">ssrn</a></li>
@@ -17,7 +18,7 @@ author_profile: true
       </details>
     </li>
   </ul>
-
+  
 - [**Human Capital, Competition and Mobility in the Managerial Labor Market**](<{{ site.baseurl }}/files/papers/ceo_human_capital.pdf>){:target="_blank"}{:rel="noopener noreferrer"}
   <ul style="list-style-type:none; padding-left:0; margin:0;">
     <li>With Noah Lyman and Lin Zhao</li>
