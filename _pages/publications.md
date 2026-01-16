@@ -31,7 +31,8 @@ author_profile: true
     </li>
   </ul>
 
-- **<u>Information and Preferences in Shareholder Voting</u>**
+- **Information and Preferences in Shareholder Voting**
+  
   <ul style="list-style-type:none; padding-left:0; margin:0;">
     <li>with James Pinnington and Lin Zhao</li>
     <li>December 2025</li>
@@ -42,8 +43,9 @@ author_profile: true
       </details>
     </li>
   </ul>
-
-- **<u>Executive Mobility in the United States, 1920-2023</u>**
+  
+- **Executive Mobility in the United States, 1920-2023**
+  
   <ul style="list-style-type:none; padding-left:0; margin:0;">
     <li>with John Graham, Dawoon Kim and Hyunseob Kim</li>
     <li>November 2025</li>
@@ -54,7 +56,7 @@ author_profile: true
       </details>
     </li>
   </ul>
-
+  
 - [**Hurdle Rate Buffers and Bargaining Power in Asset Acquisition**](<{{ site.baseurl }}/files/papers/irr_buffer.pdf>){:target="_blank"}{:rel="noopener noreferrer"}
   <ul style="list-style-type:none; padding-left:0; margin:0;">
     <li>with Bruce Carlin, Alan Crane and John Graham</li>
@@ -72,8 +74,9 @@ author_profile: true
 ## Publications
 
 - [**Corporate Flexibility in a Time of Crisis**](<{{ site.baseurl }}/files/papers/corpflex.pdf>){:target="_blank"}{:rel="noopener noreferrer"}_
+  
   <ul style="list-style-type:none; padding-left:0; margin:0;">
-    <li>with Murillo Campello, John R. Graham and Yueran Ma</li>
+    <li>with Murillo Campello, John Graham and Yueran Ma</li>
     <li><strong>Journal of Financial Economics</strong>, June 2022</li>
     <li>
       <a href="<{{ site.baseurl }}/files/papers/corpflex_IA.pdf>" target="_blank" rel="noopener noreferrer">internet appendix</a>;
