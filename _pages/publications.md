@@ -57,30 +57,30 @@ author_profile: true
     </span>
   </div>
 
+
+## Publications
+
 - <div style="margin:0;">
     <a href="{{ site.baseurl }}/files/papers/irr_buffer.pdf" target="_blank" rel="noopener noreferrer"><strong>Hurdle Rate Buffers and Bargaining Power in Asset Acquisition</strong></a><br>
     <span style="display:block; margin:0; line-height:1.5;">
       with Bruce Carlin, Alan Crane and John Graham<br>
-      July 2025, <em>conditionally accepted at Journal of Financial Economics</em><br>
+      <strong>Journal of Financial Economics</strong>, Forthcoming (January 2026)<br>
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412436" target="_blank" rel="noopener noreferrer">ssrn</a><br>
       <details style="margin:0; padding:0;">
         <summary><strong>Abstract</strong></summary>
         <p style="margin:0;">CFOs report using elevated hurdle rates that average 6.6 percentage points above the cost of capital. We show that hurdle rate buffers act as a commitment device and convey a bargaining advantage over counterparties during project development and M&amp;A. This benefit can exceed the opportunity cost of forgone projects and acquisitions, preserving firm value. Consistent with our model, bidders’ elevated hurdle rates in M&amp;A deals associate with higher surplus capture ex post; in CFO survey data, hurdle rate buffers negatively relate to ex ante bargaining power, and realized returns cluster just above elevated hurdle rates.</p>
       </details>
     </span>
-  </div>
-
-
-## Publications
+    </div>
 
 - <div style="margin:0;">
     <a href="{{ site.baseurl }}/files/papers/corpflex.pdf" target="_blank" rel="noopener noreferrer"><strong>Corporate Flexibility in a Time of Crisis</strong></a><br>
     <span style="display:block; margin:0; line-height:1.5;">
       with Murillo Campello, John Graham and Yueran Ma<br>
       <strong>Journal of Financial Economics</strong>, June 2022<br>
-      <a href="{{ site.baseurl }}/files/papers/corpflex_IA.pdf" target="_blank" rel="noopener noreferrer">internet appendix</a>;
-      <a href="https://www.sciencedirect.com/science/article/pii/S0304405X22000630" target="_blank" rel="noopener noreferrer">published version</a>;
+    	<a href="https://www.sciencedirect.com/science/article/pii/S0304405X22000630" target="_blank" rel="noopener	noreferrer">published version</a>;
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3778789" target="_blank" rel="noopener noreferrer">ssrn</a>;
+        <a href="{{ site.baseurl }}/files/papers/corpflex_IA.pdf" target="_blank" rel="noopener noreferrer">internet appendix</a>;
       <a href="https://github.com/jwb4335/corporate_flexibility" target="_blank" rel="noopener noreferrer">github repo</a><br>
       <details style="margin:0; padding:0;">
         <summary><strong>Abstract</strong></summary>
@@ -88,3 +88,7 @@ author_profile: true
       </details>
     </span>
   </div>
+  
+  
+  
+  
