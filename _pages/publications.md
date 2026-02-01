@@ -37,10 +37,10 @@ author_profile: true
     <strong>Information and Preferences in Shareholder Voting</strong><br>
     <span style="display:block; margin:0; line-height:1.5;">
       with James Pinnington and Lin Zhao<br>
-      December 2025<br>
+      February 2026<br>
       <details style="margin:0; padding:0;">
         <summary><strong>Abstract</strong></summary>
-        <p style="margin:0;">We develop a model of shareholder voting with incomplete information about proposal quality. Shareholders differ in their ownership stake, private information precision, and unconditional preference towards proposals passing. Equilibrium voting makes the mapping between observed vote records and preferences ambiguous because of strategic voting (shareholders conditioning on information implied by others’ votes) and belief correlation (shareholders observing noisy common signals about proposal quality). We estimate the model using voting records of large US mutual funds and find that blockholders' observed support rates can differ considerably from preference-implied support rates, highlighting that investor preferences cannot be inferred directly from vote records.</p>
+        <p style="margin:0;">We develop a structural model of shareholder voting with incomplete information about proposal quality. Shareholders differ in their ownership stake, private information precision, and unconditional preference for passage. Equilibrium voting reflects both fundamentals and strategic inference from other shareholders' behavior. We estimate the model using voting records of US mutual funds and recover institution-level information and preference parameters. Preference-implied support can diverge sharply from realized support, showing that vote records alone are insufficient to measure investor preferences. We further quantify the impact of strategic voting and find that it materially lowers overall support and increases the share of vote results near the passing threshold.</p>
       </details>
     </span>
   </div>
@@ -88,7 +88,6 @@ author_profile: true
       </details>
     </span>
   </div>
-  
   
   
   
