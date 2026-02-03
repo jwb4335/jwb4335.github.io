@@ -64,7 +64,8 @@ author_profile: true
     <a href="{{ site.baseurl }}/files/papers/irr_buffer.pdf" target="_blank" rel="noopener noreferrer"><strong>Hurdle Rate Buffers and Bargaining Power in Asset Acquisition</strong></a><br>
     <span style="display:block; margin:0; line-height:1.5;">
       with Bruce Carlin, Alan Crane and John Graham<br>
-      <strong>Journal of Financial Economics</strong>, Forthcoming (January 2026)<br>
+      <strong>Journal of Financial Economics</strong>, April 2026<br>
+      	<a href="https://www.sciencedirect.com/science/article/pii/S0304405X26000115" target="_blank" rel="noopener	noreferrer">published version</a>;
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412436" target="_blank" rel="noopener noreferrer">ssrn</a><br>
       <details style="margin:0; padding:0;">
         <summary><strong>Abstract</strong></summary>
@@ -72,22 +73,20 @@ author_profile: true
       </details>
     </span>
     </div>
-
+    
 - <div style="margin:0;">
     <a href="{{ site.baseurl }}/files/papers/corpflex.pdf" target="_blank" rel="noopener noreferrer"><strong>Corporate Flexibility in a Time of Crisis</strong></a><br>
     <span style="display:block; margin:0; line-height:1.5;">
       with Murillo Campello, John Graham and Yueran Ma<br>
       <strong>Journal of Financial Economics</strong>, June 2022<br>
     	<a href="https://www.sciencedirect.com/science/article/pii/S0304405X22000630" target="_blank" rel="noopener	noreferrer">published version</a>;
-      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3778789" target="_blank" rel="noopener noreferrer">ssrn</a>;
-        <a href="{{ site.baseurl }}/files/papers/corpflex_IA.pdf" target="_blank" rel="noopener noreferrer">internet appendix</a>;
-      <a href="https://github.com/jwb4335/corporate_flexibility" target="_blank" rel="noopener noreferrer">github repo</a><br>
-      <details style="margin:0; padding:0;">
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3778789" target="_blank" rel="noopener noreferrer">ssrn</a>
         <summary><strong>Abstract</strong></summary>
         <p style="margin:0;">We use the COVID shock to study the direct and interactive effects of several forms of corporate flexibility on short- and long-term real business plans. We find that i) workplace flexibility, namely the ability for employees to work remotely, plays a central role in determining firms’ employment plans during the health crisis; ii) investment flexibility allows firms to increase or decrease capital spending based on their business prospects in the crisis, with effects shaped by workplace flexibility; and iii) financial flexibility contributes to stronger employment and investment, in particular when fixed costs are high. While the role of workplace flexibility is new to the COVID crisis, CFOs expect lasting effects for years to come: high workplace flexibility firms foresee continuation of remote work, stronger employment recovery, and shifting away from traditional capital investment, whereas low workplace flexibility firms rely more on automation to replace labor.</p>
       </details>
     </span>
-  </div>
-  
+    </div>
+    
+    
   
   
