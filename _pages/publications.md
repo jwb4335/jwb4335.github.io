@@ -34,7 +34,7 @@ author_profile: true
   </div>
 
 - <div style="margin:0;">
-    <strong>Information and Preferences in Shareholder Voting</strong><br>
+    <a href="{{ site.baseurl }}/files/papers/strategic_voting.pdf" target="_blank" rel="noopener noreferrer"><strong>Information and Preferences in Shareholder Voting</strong></a><br>
     <span style="display:block; margin:0; line-height:1.5;">
       with James Pinnington and Lin Zhao<br>
       February 2026<br>
@@ -88,4 +88,4 @@ author_profile: true
     </span>
     </div>
     
-  
+
