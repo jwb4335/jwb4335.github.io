@@ -11,7 +11,7 @@ author_profile: true
 - <div style="margin:0;">
     <a href="{{ site.baseurl }}/files/papers/shareholder_voice.pdf" target="_blank" rel="noopener noreferrer"><strong>Shareholder Voice and Executive Compensation</strong></a><br>
     <span style="display:block; margin:0; line-height:1.5;">
-      January 2026, <em>submitted</em><br>
+      January 2026
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4584580" target="_blank" rel="noopener noreferrer">ssrn</a><br>
       <details style="margin:0; padding:0;">
         <summary><strong>Abstract</strong></summary>
@@ -24,7 +24,7 @@ author_profile: true
     <a href="{{ site.baseurl }}/files/papers/ceo_human_capital.pdf" target="_blank" rel="noopener noreferrer"><strong>Human Capital, Competition and Mobility in the Managerial Labor Market</strong></a><br>
     <span style="display:block; margin:0; line-height:1.5;">
       with Noah Lyman and Lin Zhao<br>
-      December 2025, <em>submitted</em><br>
+      December 2025
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5267762" target="_blank" rel="noopener noreferrer">ssrn</a><br>
       <details style="margin:0; padding:0;">
         <summary><strong>Abstract</strong></summary>
@@ -40,7 +40,7 @@ author_profile: true
       February 2026<br>
       <details style="margin:0; padding:0;">
         <summary><strong>Abstract</strong></summary>
-        <p style="margin:0;">We develop a structural model of shareholder voting with incomplete information about proposal quality. Shareholders differ in their ownership stake, private information precision, and unconditional preference for passage. Equilibrium voting reflects both fundamentals and strategic inference from other shareholders' behavior. We estimate the model using voting records of US mutual funds and recover institution-level information and preference parameters. Preference-implied support can diverge sharply from realized support, showing that vote records alone are insufficient to measure investor preferences. We further quantify the impact of strategic voting and find that it materially lowers overall support and increases the share of vote results near the passing threshold.</p>
+        <p style="margin:0;">We develop a structural model of shareholder voting with incomplete information about proposal quality. We show that preferences and information are not separately identified from individual voting patterns alone: correlated information and strategic voting jointly determine the mapping from preferences to votes. Identification arises through cross-shareholder voting correlations and differential exposure to public information across investor types. Estimating the model on mutual fund voting, we recover institution-level information precision and information-corrected preference parameters. Despite higher support for management, blockholders' preferences are close to those of dispersed shareholders. Equalizing information across investor types has a larger effect on voting than equalizing preferences.</p>
       </details>
     </span>
   </div>
