@@ -469,23 +469,20 @@ details summary::after {
     flex: 1;
 }
 
-        ul {
-            padding-inline-start: 1em; /* Removes the default left padding */
-
-            // list-style-type: '\25A0'; /* Change this property to customize the symbol */
-            color: $darkgreen ; /* Change the color of the bullet */
-            font-size: 14px; /* Change the size of the bullet */
-            
-        }
-
-        li {
-            padding-left: 6px; /* Add padding to the left of the bullet */
-            color: black; /* Set a specific color for the text */
-
-        }
-li::marker {
-  font-size: 0.9em;
-  color: black;
+.page__content {
+  ul {
+    padding-inline-start: 1em;
+    color: $darkgreen;
+    font-size: 14px;
+  }
+  li {
+    padding-left: 6px;
+    color: black;
+  }
+  li::marker {
+    font-size: 0.9em;
+    color: black;
+  }
 }
 
 

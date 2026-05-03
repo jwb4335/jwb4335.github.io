@@ -70,30 +70,6 @@
 
 }
 
-/* Show burger once the viewport is < 768 px  ----------------------------- */
-@media (max-width: 600px) {
-  /* 1) revert to a simple flex row that can overflow */
-  .greedy-nav {
-    display: flex;          /* instead of grid          */
-    align-items: stretch;   /* keeps height consistent   */
-  }
-
-  /* 2) the visible links must not shrink */
-  .greedy-nav .visible-links {
-    display: flex;
-    flex-wrap: nowrap;      /* no wrapping               */
-  }
-  .greedy-nav .visible-links li {
-    flex: 0 0 auto;         /* don’t let <li> shrink     */
-  }
-  .greedy-nav .visible-links a {
-    min-width: 120px;       /* pick a width that lets
-                               exactly two links fit on
-                               a ~360 px phone           */
-  }
-}
-
-
 /* ----------------------------------------------------------
    Make the Rice logo fill the screen on phones
    ---------------------------------------------------------- */
@@ -107,12 +83,11 @@
   }
 }
 
-
 /* === Responsive PDF container =============================== */
 .pdf-wrapper {
   position: relative;
-  padding-top: 2rem;          /*  = height/width  (e.g.  1100 / 780 ≈ 1.41)  */
-  margin-bottom: 2rem;        /* space under the viewer                       */
+  aspect-ratio: 780 / 1100;
+  margin-bottom: 2rem;
 }
 
 .pdf-wrapper object {
