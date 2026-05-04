@@ -11,11 +11,11 @@ author_profile: true
 - <div style="margin:0;">
     <a href="{{ site.baseurl }}/files/papers/shareholder_voice.pdf" target="_blank" rel="noopener noreferrer"><strong>Shareholder Voice and Executive Compensation</strong></a><br>
     <span style="display:block; margin:0; line-height:1.5;">
-      January 2026
+      May 2026
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4584580" target="_blank" rel="noopener noreferrer">ssrn</a><br>
       <details style="margin:0; padding:0;">
         <summary><strong>Abstract</strong></summary>
-        <p style="margin:0;">I estimate a model of CEO compensation with nonbinding shareholder approval votes (Say-on-Pay): shareholders can dissent on compensation decisions and punish the Board. Because the compensation proposal is endogenous to the voting environment itself, the threat of dissent disciplines pay ex ante and increases shareholder value by 2.97% on average, despite a 6% failure rate. I analyze counterfactual vote designs that alter the intervention and communication aspects of the vote. Binding votes pin pay to the last approved policy and may ignore new information about CEO ability. Designs that strengthen intervention while incorporating vote-revealed information may best benefit shareholders.</p>
+        <p style="margin:0;">I estimate a model of CEO compensation with nonbinding shareholder approval votes (Say-on-Pay). Because the compensation proposal is endogenous to the voting environment itself, the threat of dissent disciplines pay ex ante. The estimated disciplinary channel lowers CEO pay by 4.77% and raises shareholder value by 2.22% on average, despite a 6% failure rate. I also analyze a counterfactual vote design that strengthens the communication channel of SOP by letting the information contained in a failed vote directly affect within-period compensation. Relative to the baseline, the design increases shareholder value.</p>
       </details>
     </span>
   </div>
@@ -37,7 +37,7 @@ author_profile: true
     <a href="{{ site.baseurl }}/files/papers/strategic_voting.pdf" target="_blank" rel="noopener noreferrer"><strong>Information and Preferences in Shareholder Voting</strong></a><br>
     <span style="display:block; margin:0; line-height:1.5;">
       with James Pinnington and Lin Zhao<br>
-      February 2026<br>
+      April 2026<br>
       <details style="margin:0; padding:0;">
         <summary><strong>Abstract</strong></summary>
         <p style="margin:0;">We develop a structural model of shareholder voting with incomplete information about proposal quality. We show that preferences and information are not separately identified from individual voting patterns alone: correlated information and strategic voting jointly determine the mapping from preferences to votes. Identification arises through cross-shareholder voting correlations and differential exposure to public information across investor types. Estimating the model on mutual fund voting, we recover institution-level information precision and information-corrected preference parameters. Despite higher support for management, blockholders' preferences are close to those of dispersed shareholders. Equalizing information across investor types has a larger effect on voting than equalizing preferences.</p>

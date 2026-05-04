@@ -19,10 +19,10 @@ I have a PhD in Finance from the Fuqua School of Business at Duke University and
 ## Updates
 
 
+- 2026.05.04: <span style="color: red;">**New version**</span> of [Shareholder Voice and Executive Compensation](<{{ site.baseurl }}/files/papers/shareholder_voice.pdf>){:target="_blank"}{:rel="noopener noreferrer"}
 - 2026.02.13: <span style="color: red;">**Completely new version**</span> of  [Information and Preferences in Shareholder Voting](<{{ site.baseurl }}/files/papers/strategic_voting.pdf>){:target="_blank"}{:rel="noopener noreferrer"}
     - Presenting at FIRS 2026
 - 2026.01.21:  [Hurdle Rate Buffers and Bargaining Power in Asset Acquisition](<{{ site.baseurl }}/files/papers/irr_buffer.pdf>){:target="_blank"}{:rel="noopener noreferrer"} is forthcoming at the Journal of Financial Economics
-- 2026.01.16: <span style="color: red;">**Completely new version**</span> of [Shareholder Voice and Executive Compensation](<{{ site.baseurl }}/files/papers/shareholder_voice.pdf>){:target="_blank"}{:rel="noopener noreferrer"}
 - <span style="color: red;">**New version**</span> of <u>Executive Mobility in the United States, 1920-2023</u> coming very soon!
 - 2025.12.19: <span style="color: red;">**New version**</span> of [Human Capital, Competition and Mobility in the Managerial Labor Market](<{{ site.baseurl }}/files/papers/ceo_human_capital.pdf>){:target="_blank"}{:rel="noopener noreferrer"} <br/>
   - Presented at [NBER Economics of Executive Compensation Conference](https://www.nber.org/conferences/economics-executive-compensation-research-conference-fall-2025) on 2025.10.09
