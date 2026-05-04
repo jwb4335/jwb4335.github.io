@@ -317,11 +317,25 @@
     }
   }
 
-  // Always-burger on mobile. Placed at the end of `.greedy-nav` so these
-  // rules win the cascade against the unconditional `.visible-links` /
-  // `.hidden-links` declarations above.
+  // Mobile: Home + Research stay inline at the left, burger on the right.
+  // Tapping the burger turns `.visible-links` into a full-width dropdown
+  // showing all four items (Home/Research duplicated; common pattern that
+  // gives one-tap access to every nav target).
+  //
+  // `flex: 0 0 auto` keeps `.visible-links` sized to its visible content
+  // (~150px), so the greedy-nav JS overflow logic sees no overflow and
+  // leaves the items in place.
   @include breakpoint(max-width $small) {
-    justify-content: flex-end;
+    .visible-links {
+      display: flex;
+      align-items: center;
+      flex-wrap: nowrap;
+      flex: 0 0 auto;
+      order: -1;            // render before the button in DOM-source order
+    }
+
+    // Hide items 3+ inline by default
+    .visible-links > li:nth-child(n+3) { display: none; }
 
     button,
     button.hidden {
@@ -330,6 +344,7 @@
       align-items: center;
       justify-content: center;
       position: static;
+      flex: 0 0 auto;
       margin-left: auto;
       height: 44px;
       width: 44px;
@@ -339,8 +354,8 @@
       color: $masthead-link-color;
     }
 
-    .visible-links { display: none; }
-
+    // When burger is open, `.visible-links` becomes a positioned dropdown
+    // panel showing every item.
     button.close ~ .visible-links {
       display: flex;
       flex-direction: column;
@@ -356,12 +371,14 @@
       box-shadow: 0 0 10px rgba(#000, 0.25);
       z-index: 30;
 
-      li {
+      > li {
         display: block;
-        align-items: stretch;
-        line-height: normal;
+        border-bottom: 1px solid $border-color;
+
+        &:last-child { border-bottom: none; }
       }
-      a {
+      > li a {
+        display: block;
         margin: 0;
         padding: 10px 20px;
         text-align: left;
