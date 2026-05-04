@@ -326,6 +326,7 @@
     button,
     button.hidden {
       display: flex !important;
+      visibility: visible !important;
       align-items: center;
       justify-content: center;
       position: static;
