@@ -37,10 +37,10 @@ author_profile: true
     <a href="{{ site.baseurl }}/files/papers/strategic_voting.pdf" target="_blank" rel="noopener noreferrer"><strong>Information and Preferences in Shareholder Voting</strong></a><br>
     <span style="display:block; margin:0; line-height:1.5;">
       with James Pinnington and Lin Zhao<br>
-      April 2026<br>
+      July 2026<br>
       <details style="margin:0; padding:0;">
         <summary><strong>Abstract</strong></summary>
-        <p style="margin:0;">We develop a structural model of shareholder voting with incomplete information about proposal quality. We show that preferences and information are not separately identified from individual voting patterns alone: correlated information and strategic voting jointly determine the mapping from preferences to votes. Identification arises through cross-shareholder voting correlations and differential exposure to public information across investor types. Estimating the model on mutual fund voting, we recover institution-level information precision and information-corrected preference parameters. Despite higher support for management, blockholders' preferences are close to those of dispersed shareholders. Equalizing information across investor types has a larger effect on voting than equalizing preferences.</p>
+        <p style="margin:0;">We develop a structural model of shareholder voting under incomplete information about proposal quality. Preferences and information are not separately identified from individual voting patterns: correlated information and strategic voting jointly determine the mapping from preferences to votes. Our identification strategy uses proxy advisor recommendations as observable measures of public information and vote co-movement across shareholders to identify the information environment; preferences are then pinned down by the voting equilibrium. Despite higher support for management, blockholders' preferences towards passage of management proposals are close to dispersed shareholders': the gap reflects inference from pivotality. Differences in information quality affect voting outcomes more than differences in preferences.</p>
       </details>
     </span>
   </div>
