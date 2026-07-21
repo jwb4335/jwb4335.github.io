@@ -37,7 +37,8 @@ author_profile: true
     <a href="{{ site.baseurl }}/files/papers/strategic_voting.pdf" target="_blank" rel="noopener noreferrer"><strong>Information and Preferences in Shareholder Voting</strong></a><br>
     <span style="display:block; margin:0; line-height:1.5;">
       with James Pinnington and Lin Zhao<br>
-      July 2026<br>
+      July 2026
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6873581" target="_blank" rel="noopener noreferrer">ssrn</a><br>
       <details style="margin:0; padding:0;">
         <summary><strong>Abstract</strong></summary>
         <p style="margin:0;">We develop a structural model of shareholder voting under incomplete information about proposal quality. Preferences and information are not separately identified from individual voting patterns: correlated information and strategic voting jointly determine the mapping from preferences to votes. Our identification strategy uses proxy advisor recommendations as observable measures of public information and vote co-movement across shareholders to identify the information environment; preferences are then pinned down by the voting equilibrium. Despite higher support for management, blockholders' preferences towards passage of management proposals are close to dispersed shareholders': the gap reflects inference from pivotality. Differences in information quality affect voting outcomes more than differences in preferences.</p>
@@ -52,7 +53,7 @@ author_profile: true
       November 2025<br>
       <details style="margin:0; padding:0;">
         <summary><strong>Abstract</strong></summary>
-        <p style="margin:0;">This paper studies the evolution of U.S. public-firm executive mobility from 1920 to 2023. Executive mobility exhibits a secular increase from the 1920s through the turn of the century. After peaking in the late-1990s, it declined sharply and stabilized at a lower level: chief executive mobility in the 2010s was less than half its late-1990s peak, returning to levels last seen in the 1960s and 1970s. Finance-chief mobility shows a stronger secular rise over the century. We argue that changes in the size of the executive labor market, the importance of general managerial skills, and the redeployability of assets help explain these trends.</p>
+        <p style="margin:0;">This paper studies the evolution of U.S. public corporations' executive mobility from 1920 to 2023. The executives' mobility exhibits a secular increase from the 1920s through the turn of the century. After peaking in the late-1990s, it declined sharply and stabilized at a lower level: chief executive mobility in the 2010s is less than half its late-1990s peak, returning to levels of the 1960s and 1970s. Finance-chief mobility shows a stronger secular rise over the century. We argue that changes in the size of the executive labor market, the redeployability of executive skills, and capital reallocation explain these trends. Using a shift-share design, we show that the mobility impacts executive pay structure.</p>
       </details>
     </span>
   </div>
