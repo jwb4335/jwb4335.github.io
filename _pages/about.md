@@ -19,6 +19,7 @@ I have a PhD in Finance from the Fuqua School of Business at Duke University and
 ## Updates
 
 
+- 2026.08.31: <span style="color: red;">**New paper**</span>: [Beyond the Ballot: Shareholder Engagement and Governance Dynamics](<{{ site.baseurl }}/files/papers/engagement_voting.pdf>){:target="_blank"}{:rel="noopener noreferrer"}
 - 2026.08.31: <span style="color: red;">**New version**</span> of [Human Capital, Competition and Mobility in the Managerial Labor Market](<{{ site.baseurl }}/files/papers/ceo_human_capital.pdf>){:target="_blank"}{:rel="noopener noreferrer"}
     - Presenting at the [Econometric Society Summer School in Dynamic Structural Econometrics 2026](https://dseconf.org/dse2026conf){:target="_blank"}{:rel="noopener noreferrer"} and the [European Finance Association 2026](https://efa2026.efa-finance.org/){:target="_blank"}{:rel="noopener noreferrer"}
     - Presented at [NBER Economics of Executive Compensation Conference](https://www.nber.org/conferences/economics-executive-compensation-research-conference-fall-2025) on 2025.10.09

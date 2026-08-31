@@ -9,6 +9,18 @@ author_profile: true
 ## Working papers
 
 - <div style="margin:0;">
+    <a href="{{ site.baseurl }}/files/papers/engagement_voting.pdf" target="_blank" rel="noopener noreferrer"><strong>Beyond the Ballot: Shareholder Engagement and Governance Dynamics</strong></a><br>
+    <span style="display:block; margin:0; line-height:1.5;">
+      with Andrey Malenko and Nadya Malenko<br>
+      August 2026<br>
+      <details style="margin:0; padding:0;">
+        <summary><strong>Abstract</strong></summary>
+        <p style="margin:0;">This paper studies how private engagement and public voting jointly shape shareholder governance. Using data on large asset managers' pay-related engagements and say-on-pay votes, we show that both channels respond to disagreement between investors and boards, and that engagement predicts lower future CEO compensation and less subsequent dissent. We develop and estimate a structural model in which engagement and voting are interacting governance channels that determine what investors and boards learn and how CEO pay evolves. The model shows why votes can be misleading in isolation: support for management can reflect concerns resolved through prior engagement, rather than shareholder passivity. It also allows us to evaluate recent regulatory initiatives that may restrict engagement or voting. Our counterfactuals show that restrictions on one channel shift investor activity toward the other, but substitution is incomplete: engagement allows richer information exchange, while voting also disciplines management.</p>
+      </details>
+    </span>
+  </div>
+
+- <div style="margin:0;">
     <a href="{{ site.baseurl }}/files/papers/shareholder_voice.pdf" target="_blank" rel="noopener noreferrer"><strong>Shareholder Voice and Executive Compensation</strong></a><br>
     <span style="display:block; margin:0; line-height:1.5;">
       May 2026
