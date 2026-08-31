@@ -24,11 +24,11 @@ author_profile: true
     <a href="{{ site.baseurl }}/files/papers/ceo_human_capital.pdf" target="_blank" rel="noopener noreferrer"><strong>Human Capital, Competition and Mobility in the Managerial Labor Market</strong></a><br>
     <span style="display:block; margin:0; line-height:1.5;">
       with Noah Lyman and Lin Zhao<br>
-      December 2025
+      August 2026
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5267762" target="_blank" rel="noopener noreferrer">ssrn</a><br>
       <details style="margin:0; padding:0;">
         <summary><strong>Abstract</strong></summary>
-        <p style="margin:0;">We pose a structural model of the managerial labor market with general and firm-specific human capital accumulation, managerial bargaining power, and imperfect labor market competition. Empirically, firm-specific human capital is an important driver of wage growth over tenure and experience; it also quantitatively restricts mobility and can help explain the low rate of external CEO hiring. We decouple bargaining power from labor market competition in determining managerial rent extraction, with the latter forming a significant portion, particularly for poached CEOs. We show that firm-specific skill accumulation shapes the dynamics of rent extraction: by raising match-specific productivity between the firm and manager, it increases growth in managerial rent extraction over tenure but lowers it over experience.</p>
+        <p style="margin:0;">We pose a structural model of the managerial labor market with general and firm-specific human capital accumulation, internal and external mobility, managerial bargaining power, and imperfect labor market competition. The model reconciles high pay with low mobility: outside offers can improve incumbent contracts without producing job switches. Firm-specific skill is central to this mechanism: it strengthens incumbent matches, raising poaching costs and weakening the leverage of a given outside offer. Competition therefore operates through renegotiation with incumbents: bargaining power alone would give managers 31.6% of match surplus, while competition lifts realized capture to 54.6%, and to 79.3% for externally hired CEOs. Making firm-specific skill portable shifts competitive gains from renegotiation toward mobility, increasing job switching, external CEO hiring, and manager welfare.</p>
       </details>
     </span>
   </div>
