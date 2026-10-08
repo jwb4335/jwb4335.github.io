@@ -23,11 +23,11 @@ author_profile: true
 - <div style="margin:0;">
     <a href="{{ site.baseurl }}/files/papers/shareholder_voice.pdf" target="_blank" rel="noopener noreferrer"><strong>Shareholder Voice and Executive Compensation</strong></a><br>
     <span style="display:block; margin:0; line-height:1.5;">
-      May 2026
+      October 2026
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4584580" target="_blank" rel="noopener noreferrer">ssrn</a><br>
       <details style="margin:0; padding:0;">
         <summary><strong>Abstract</strong></summary>
-        <p style="margin:0;">I estimate a model of CEO compensation with nonbinding shareholder approval votes (Say-on-Pay). Because the compensation proposal is endogenous to the voting environment itself, the threat of dissent disciplines pay ex ante. The estimated disciplinary channel lowers CEO pay by 4.77% and raises shareholder value by 2.22% on average, despite a 6% failure rate. I also analyze a counterfactual vote design that strengthens the communication channel of SOP by letting the information contained in a failed vote directly affect within-period compensation. Relative to the baseline, the design increases shareholder value.</p>
+        <p style="margin:0;">I estimate a model of CEO compensation with advisory shareholder votes (Say-on-Pay). Because the Board sets pay anticipating dissent, the vote disciplines pay ex ante even though it is nonbinding. Removing the vote raises pay by 11.9% and lowers shareholder welfare by 0.51%, despite a 6% failure rate. I study two binding designs. Reversion restores the last approved policy after failure; revision adjusts the proposal using the vote's information. Relative to advisory voting, reversion lowers shareholder welfare because the Board controls both the proposal and the status quo; revision raises it by making vote-based information consequential for the current policy.</p>
       </details>
     </span>
   </div>
