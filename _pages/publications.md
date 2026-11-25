@@ -53,11 +53,11 @@ author_profile: true
     <a href="{{ site.baseurl }}/files/papers/strategic_voting.pdf" target="_blank" rel="noopener noreferrer"><strong>Information and Preferences in Shareholder Voting</strong></a><br>
     <span style="display:block; margin:0; line-height:1.5;">
       with James Pinnington and Lin Zhao<br>
-      July 2026
+      November 2026
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6873581" target="_blank" rel="noopener noreferrer">ssrn</a><br>
       <details style="margin:0; padding:0;">
         <summary><strong>Abstract</strong></summary>
-        <p style="margin:0;">We develop a structural model of shareholder voting under incomplete information about proposal quality. Preferences and information are not separately identified from individual voting patterns: correlated information and strategic voting jointly determine the mapping from preferences to votes. Our identification strategy uses proxy advisor recommendations as observable measures of public information and vote co-movement across shareholders to identify the information environment; preferences are then pinned down by the voting equilibrium. Despite higher support for management, blockholders' preferences towards passage of management proposals are close to dispersed shareholders': the gap reflects inference from pivotality. Differences in information quality affect voting outcomes more than differences in preferences.</p>
+        <p style="margin:0;">Does voting aggregate preferences or information? We show that they are not separately identified from individual voting patterns: in a shareholder voting model under incomplete information, different information structures and preferences can yield the same individual voting behavior. Inferring preferences from voting records therefore requires assumptions about voters' information. Joint voting behavior restores identification. We find that blockholders support management more often than dispersed shareholders, yet their preferences are similar; accounting for information and strategic inference from pivotality changes how voting records reflect preferences. Counterfactuals show that differences in information matter more for voting outcomes than differences in preferences.</p>
       </details>
     </span>
   </div>
