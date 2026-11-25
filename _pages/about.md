@@ -24,3 +24,4 @@ I have a PhD in Finance from the Fuqua School of Business at Duke University and
 - 2026.11.13: <span style="color: red;">**New version**</span> of [Human Capital, Competition and Mobility in the Managerial Labor Market](<{{ site.baseurl }}/files/papers/ceo_human_capital.pdf>){:target="_blank"}{:rel="noopener noreferrer"}
 - 2026.10.08: <span style="color: red;">**New version**</span> of [Shareholder Voice and Executive Compensation](<{{ site.baseurl }}/files/papers/shareholder_voice.pdf>){:target="_blank"}{:rel="noopener noreferrer"}
 - 2026.08.31: <span style="color: red;">**New paper**</span>: [Beyond the Ballot: Shareholder Engagement and Governance Dynamics](<{{ site.baseurl }}/files/papers/engagement_voting.pdf>){:target="_blank"}{:rel="noopener noreferrer"}
+    - Presenting at the [Utah Winter Finance Conference](https://utahwfc.org/){:target="_blank"}{:rel="noopener noreferrer"}
